@@ -1,0 +1,896 @@
+sdf_file_ix,COMPOUND_NAMES,Reference,IC50_range_nM,smiles
+0,"Compound 107 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)c1c2ccccc2[nH]n1)Sc1nncn1C
+1,"Compound 108 (R) (Page No: 79, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@H](c1cccc(c1)c1c2ccccc2[nH]n1)Sc1nncn1C
+2,"Compound 102 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)c1cc(c2ccccc2)n[nH]1)Sc1nncn1C
+3,"Compound 103 (R) (Page No: 79, Table No: 1)",WO 2021/021761 A1,>5000,C[C@H](c1cccc(c1)c1cc(c2ccccc2)n[nH]1)Sc1nncn1C
+4,"Compound 104 (Page No: 79, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2cccc(c2)OC)n[nH]1)Sc1nncn1C
+5,"Compound 99 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)n1ncc(c2ccccc2)n1)Sc1nncn1C
+6,"Compound 100 (R) (Page No: 79, Table No: 2)",WO 2021/021761 A1,>5000,C[C@H](c1cccc(c1)n1ncc(c2ccccc2)n1)Sc1nncn1C
+7,"Compound 84 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2ccc(CO)cc2)n1)Sc1nncn1C
+8,"Compound 78 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2cccc(c2)[Cl])n1)Sc1nncn1C
+9,"Compound 72 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2ccc(cc2)[Cl])n1)Sc1nncn1C
+10,"Compound 88 (S) (Page No: 58, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)n1ncc(c2ccc(C#N)cc2)n1)Sc1nncn1C
+11,"Compound 97 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2cccc(C#N)c2)n1)Sc1nncn1C
+12,"Compound 74 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)n1ncc(c2ccc(cc2)OC)n1)Sc1nncn1C
+13,"Compound 76 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2cccc(c2)OC)n1)Sc1nncn1C
+14,"Compound 95 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)n1ncc(c2cccc(c2)C(N)=O)n1)Sc1nncn1C
+15,"Compound 86 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2ccc(cc2)C(N)=O)n1)Sc1nncn1C
+16,"Compound 93 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2cccc(c2)C(NC)=O)n1)Sc1nncn1C
+17,"Compound 82 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2ccc(cc2)C(NC)=O)n1)Sc1nncn1C
+18,"Compound 90 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1ncc(c2cccc(c2)C(O)=O)n1)Sc1nncn1C
+19,"Compound 80 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1ncc(c2ccc(cc2)C(O)=O)n1)Sc1nncn1C
+20,"Compound 101 (Page No: 79, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1ccnc(c1)n1ncc(c2ccccc2)n1)Sc1nncn1C
+21,"Compound 167 (Page No: 80, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2ccccc2)nn1)Sc1nncn1C
+22,"Compound 92 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1cc(c2cccc(CO)c2)nn1)Sc1nncn1C
+23,"Compound 85 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1cc(c2ccc(CO)cc2)nn1)Sc1nncn1C
+24,"Compound 75 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2ccc(cc2)OC)nn1)Sc1nncn1C
+25,"Compound 77 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2cccc(c2)OC)nn1)Sc1nncn1C
+26,"Compound 79 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2cccc(c2)[Cl])nn1)Sc1nncn1C
+27,"Compound 73 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2ccc(cc2)[Cl])nn1)Sc1nncn1C
+28,"Compound 89 (S) (Page No: 78, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2ccc(C#N)cc2)nn1)Sc1nncn1C
+29,"Compound 98 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1cc(c2cccc(C#N)c2)nn1)Sc1nncn1C
+30,"Compound 96 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2cccc(c2)C(N)=O)nn1)Sc1nncn1C
+31,"Compound 87 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)n1cc(c2ccc(cc2)C(N)=O)nn1)Sc1nncn1C
+32,"Compound 94 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1cc(c2cccc(c2)C(NC)=O)nn1)Sc1nncn1C
+33,"Compound 83 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1cc(c2ccc(cc2)C(NC)=O)nn1)Sc1nncn1C
+34,"Compound 91 (S) (Page No: 79, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1cc(c2cccc(c2)C(O)=O)nn1)Sc1nncn1C
+35,"Compound 81 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)n1cc(c2ccc(cc2)C(O)=O)nn1)Sc1nncn1C
+36,"Compound 67 (S) (Page No: 78, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2ccccc2)no1)Sc1nncn1C
+37,"Compound 68 (R) (Page No: 78, Table No: 2)",WO 2021/021761 A1,>5000,C[C@H](c1cccc(c1)c1cc(c2ccccc2)no1)Sc1nncn1C
+38,"Compound 56 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,Cc1cccc(c1)c1cc(c2cccc(c2)[C@H](C)Sc2nncn2C)on1
+39,"Compound 55 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,Cc1ccc(cc1)c1cc(c2cccc(c2)[C@H](C)Sc2nncn2C)on1
+40,"Compound 64 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2ccc(CO)cc2)no1)Sc1nncn1C
+41,"Compound 58 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2cccc(c2)[Cl])no1)Sc1nncn1C
+42,"Compound 57 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2ccc(cc2)[Cl])no1)Sc1nncn1C
+43,"Compound 62 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2cccc(C#N)c2)no1)Sc1nncn1C
+44,"Compound 61 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2ccc(C#N)cc2)no1)Sc1nncn1C
+45,"Compound 69 (Page No: 78, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2cccc(c2)C(F)(F)F)no1)Sc1nncn1C
+46,"Compound 59 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2ccc(cc2)OC)no1)Sc1nncn1C
+47,"Compound 60 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2cccc(c2)OC)no1)Sc1nncn1C
+48,"Compound 65 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)c1cc(c2ccc(cc2)C(NC)=O)no1)Sc1nncn1C
+49,"Compound 63 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)c1cc(c2ccc(cc2)C(O)=O)no1)Sc1nncn1C
+50,"Compound 66 (S) (Page No: 77, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)c1cc(c2ccc(cc2)S(C)(=O)=O)no1)Sc1nncn1C
+51,"Compound 70 (Page No: 78, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)c1cc(c2ccccn2)no1)Sc1nncn1C
+52,"Compound 71 (Page No: 78, Table No: 2)",WO 2021/021761 A1,>5000,C[C@@H](c1ccnc(c1)c1cc(c2ccccc2)no1)Sc1nncn1C
+53,"Compound 105 (R) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)c1cc(c2ccccn2)n[nH]1
+54,"Compound 106 (R) (Page No: 79, Table No: 5)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)c1cc(c2ncccn2)n[nH]1
+55,"Compound 116 (R) (Page No: 80, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)c1c2c(ccc(C(F)(F)F)n2)n[nH]1
+56,"Compound 118 (R) (Page No: 80, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@H](Cc1nncn1C)c1cccc(c1)c1c2c(cccn2)[nH]n1
+57,"Compound 119 (R) (Page No: 80, Table No: 2)",WO 2021/021761 A1,1001-5000,Cc1ccc2c(c(c3cccc(c3)[C@H](C)Cc3nncn3C)n[nH]2)n1
+58,"Compound 120 (R) (Page No: 80, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@H](Cc1nncn1C)c1cccc(c1)c1c2c(cc(cn2)C2CCC2)[nH]n1
+59,"Compound 110 (R) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)c1c2c(c(cc(C(F)(F)F)n2)N2CC(C2)O)n[nH]1
+60,"Compound 111 (Stereo) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)c1c2c(c(cc(C(F)(F)F)n2)N2CC[C@@H](C2)O)n[nH]1
+61,"Compound 112 (Stereo) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@@H](Cc1nncn1C)c1cccc(c1)c1c2c(c(cc(C(F)(F)F)n2)N2CC[C@@H](C2)O)n[nH]1
+62,"Compound 109 (R) (Page No: 79, Table No: 2)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)c1c2c(c(cc(C(F)(F)F)n2)N2CCC(CC2)O)n[nH]1
+63,"Compound 117 (R) (Page No: 80, Table No: 2)",WO 2021/021761 A1,1001-5000,C[C@H](Cc1nncn1C)c1cccc(c1)c1c2c(c(ccn2)N2CCC(CC2)O)[nH]n1
+64,"Compound 113 (Stereo) (Page No: 80, Table No: 2)",WO 2021/021761 A1,<100,C[C@@H](Cc1nncn1C)c1cccc(c1)c1c2c(c(CN3CC[C@@H](C3)F)cc(C(F)(F)F)n2)n[nH]1
+65,"Compound 16 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCc2cccnc12)=O
+66,"Compound 22 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CC(C)(C)c2cccnc12)=O
+67,"Compound 9 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCCc2cccnc12)=O
+68,"Compound 30 (Page No: 57, Table No: 1)",WO 2021/021761 A1,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(N1CC2(CCNCC2)c2cccnc12)=O
+69,"Compound 31 (Page No: 57, Table No: 1)",WO 2021/021761 A1,101-1000,CN1CCC2(CC1)CN(C(Nc1cccc(c1)C1(Cc3nncn3C)COC1)=O)c1c2cccn1
+70,"Compound 25 (Stereo) (Page No: 57, Table No: 1)",WO 2021/021761 A1,101-1000,Cn1cnnc1[C@@H]1C[C@@H]1c1cccc(c1)NC(N1CCOc2cccnc12)=O
+71,"Compound 166 (Stereo) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,Cn1cnnc1[C@H]1C[C@H]1c1cccc(c1)NC(N1CCOc2cccnc12)=O
+72,"Compound 10 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCOc2cccnc12)=O
+73,"Compound 19 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CC(C)(C)Oc2cccnc12)=O
+74,"Compound 21 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCOc2cc(cnc12)[Br])=O
+75,"Compound 23 (Page No: 57, Table No: 1)",WO 2021/021761 A1,101-1000,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(N1CCOc2cccnc12)=O
+76,"Compound 24 (R) (Page No: 57, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@@](c1cccc(c1)NC(N1CCOc2cccnc12)=O)(C(c1nncn1C)(F)F)F
+77,"Compound 27 (Page No: 57, Table No: 1)",WO 2021/021761 A1,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(N1CC2(CNC2)Oc2cccnc12)=O
+78,"Compound 29 (Page No: 57, Table No: 1)",WO 2021/021761 A1,<100,CN1CC2(C1)CN(C(Nc1cccc(c1)C1(Cc3nncn3C)COC1)=O)c1c(cccn1)O2
+79,"Compound 26 (Stereo) (Page No: 57, Table No: 1)",WO 2021/021761 A1,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(N1C[C@@]2(CCNC2)Oc2cccnc12)=O
+80,"Compound 28 (R) (Page No: 57, Table No: 1)",WO 2021/021761 A1,<100,C[C@@](c1cccc(c1)NC(N1CC2(CNC2)Oc2cccnc12)=O)(C(c1nncn1C)(F)F)F
+81,"Compound 13 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,Cc1cccc2CN(Cc12)C(Nc1cccc(c1)[C@H](C)Cc1nncn1C)=O
+82,Example 256 (R) (Page No: 471),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cccc2[Br])C1=O
+83,Example 257 (R) (Page No: 471),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(ccnc2C2CC2)C1=O
+84,Example 258 (R) (Page No: 472),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(ccnc2C2CCC2)C1=O
+85,Example 372 (R) (Page No: 549),WO2019148005,301-1000,Cc1cc2C(N(Cc2c(C2CC2)n1)c1cccc(c1)[C@H](C)Cc1nncn1C)=O
+86,Example 370 (R) (Page No: 548),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(C3CC3)nc2C2CC2)C1=O
+87,Example 259 (R) (Page No: 473),WO2019148005,301-1000,CC(C)c1c2CN(C(c2ccn1)=O)c1cccc(c1)[C@H](C)Cc1nncn1C
+88,Example 692 (Page No: 769),WO2019148005,<100,Cc1cc2C(N(Cc2c(C2CC2)n1)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+89,Example 568 (Page No: 696),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(C3CC3)nc2C2CC2)C1=O
+90,Example 677 (Page No: 759),WO2019148005,301-1000,Cc1cc2C(N(Cc2c(C2CC2)n1)c1cccc(c1)C1(COC1)C(c1nncn1C)(F)F)=O
+91,Example 371 (R) (Page No: 549),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(ccnc2C(F)(F)F)C1=O
+92,Example 369 (Stereo) (Page No: 548),WO2019148005,301-1000,Cn1cnnc1[C@@H]1C[C@@H]1c1cccc(c1)N1Cc2c(ccnc2C(F)(F)F)C1=O
+93,Example 373 (R) (Page No: 550),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(ccnc2C(C)(C)F)C1=O
+94,Example 696 (Page No: 773),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(ccnc2C(F)(F)F)C1=O
+95,Example 579 (Page No: 704),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC3)nc2C2CC2)C1=O
+96,Example 584 (+/-) (Page No: 707),WO2019148005,<100,CC(c1cc2C(N(Cc2c(C2CC2)n1)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCCC1
+97,Example 587 (+/-) (Page No: 709),WO2019148005,<100,CC(c1cc2C(N(Cc2c(C2CC2)n1)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCCCC1
+98,Example 586 (+/-) (Page No: 708),WO2019148005,<100,CC(c1cc2C(N(Cc2c(C2CC2)n1)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC2(CC2)C1
+99,Example 585 (+/-) (Page No: 708),WO2019148005,<100,CC(c1cc2C(N(Cc2c(C2CC2)n1)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCC2(CC2)C1
+100,Example 578 (S) (Page No: 703),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)nc2C2CC2)C1=O
+101,Example 609 (Page No: 720),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(nc2C2CC2)N2CC(C2)C(F)F)C1=O
+102,Example 255a (R) (Page No: 470),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+103,"Example 255b (S) (Page No: 75, Table No: 1)",WO2019148005,1001-3000,C[C@@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+104,Example 299 (Page No: 505),WO2019148005,<100,Cn1cnnc1CC1(CC1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+105,Example 300 (Page No: 507),WO2019148005,<100,CC(C)(Cc1nncn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+106,Example 375 (Stereo) (Page No: 553),WO2019148005,<100,C[C@H]1[C@H](c2cccc(c2)N2Cc3c(cccc3C(F)(F)F)C2=O)[C@@H]1c1nncn1C
+107,Example 282 (Stereo) (Page No: 491),WO2019148005,301-1000,Cn1cnnc1[C@@H]1C[C@@H]1c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+108,Example 283b (Stereo) (Page No: 494),WO2019148005,301-1000,Cn1cnnc1[C@@H]1CC[C@@H]1c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+109,Example 283 (cis) (+/-) (Page No: 491),WO2019148005,301-1000,Cn1cnnc1C1CCC1c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+110,Example 260 (R) (Page No: 474),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CC2)C1=O
+111,Example 476 (+/-) (Page No: 625),WO2019148005,301-1000,CC(Cc1nncn1C)c1cc(cc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C1CCC1
+112,Example 477 (Page No: 627),WO2019148005,<100,CC(C)(Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CC2)C1=O
+113,Example 617 (R) (Page No: 724),WO2019148005,101-300,Cn1cnnc1C[C@@H](C(F)F)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+114,Example 471a (R) (Page No: 619),WO2019148005,101-300,Cn1cnnc1C[C@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(F)(F)F
+115,Example 289 (+/-) (Page No: 496),WO2019148005,301-1000,Cn1cnnc1CC(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(F)(F)F
+116,Example 471b (S) (Page No: 619),WO2019148005,3001-10000,Cn1cnnc1C[C@@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(F)(F)F
+117,Example 527 (Page No: 667),WO2019148005,<100,Cn1cnnc1CC1(CC(C1)(F)F)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+118,Example 298 (+/-) (Page No: 504),WO2019148005,101-300,CC(Cc1nncn1C)(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)F
+119,Example 298b (S) (Page No: 505),WO2019148005,101-300,C[C@](Cc1nncn1C)(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)F
+120,Example 298a (R) (Page No: 505),WO2019148005,1001-3000,C[C@@](Cc1nncn1C)(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)F
+121,Example 281 (+/-) (Page No: 489),WO2019148005,101-300,CC(Cc1nncn1C)c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O
+122,Example 281a (R) (Page No: 489),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O
+123,Example 281b (S) (Page No: 489),WO2019148005,3001-10000,C[C@@H](Cc1nncn1C)c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O
+124,Example 280 (R) (Page No: 487),WO2019148005,3001-10000,C[C@H](Cc1nncn1C)c1cc(ccc1F)N1Cc2c(cccc2C(F)(F)F)C1=O
+125,Example 470 (Stereo) (Page No: 617),WO2019148005,101-300,Cn1cnnc1CC1(CC(C1)CO)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+126,Example 392 (R) (Page No: 567),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CO)cc2C(F)(F)F)C1=O
+127,Example 436 (R) (Page No: 590),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@@H](C)Cc1nncn1C)=O)O
+128,Example 374 (R) (Page No: 552),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(C)(C)O)C1=O
+129,Example 273 (R) (Page No: 483),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(O)=O)C1=O
+130,Example 263 (R) (Page No: 476),WO2019148005,3001-10000,C[C@H](Cc1ncn(C)n1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+131,Example 264 (R) (Page No: 476),WO2019148005,3001-10000,C[C@H](Cc1ncnn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+132,Example 292 (cis) (Page No: 498),WO2019148005,1001-3000,C[C@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@@H](c1nncn1C)O
+133,Example 383 (Stereo) (Page No: 560),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)[C@H]2CCCNC2)C1=O
+134,Example 382 (Stereo) (Page No: 560),WO2019148005,101-300,C[C@@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)[C@H]2CCCNC2)C1=O
+135,Example 265 (R) (Page No: 476),WO2019148005,301-1000,C[C@H](Cc1nncn1C1CC1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+136,Example 408 (Stereo) (Page No: 575),WO2019148005,101-300,Cn1cnnc1[C@@H]1C[C@@H]1c1cccc(c1)N1Cc2c(cc(C#N)cc2C(F)(F)F)C1=O
+137,Example 293 (trans) (Page No: 500),WO2019148005,101-300,C[C@@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@@H](c1nncn1C)F
+138,Example 474a (Stereo) (Page No: 621),WO2019148005,<100,C[C@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@@H](c1nncn1C)F
+139,Example 473 (+/-) (Page No: 621),WO2019148005,301-1000,CC(C(c1nncn1C)F)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+140,Example 467a (S) (Page No: 610),WO2019148005,101-300,C[C@@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(c1nncn1C)(F)F
+141,Example 294 (+/-) (Page No: 501),WO2019148005,301-1000,CC(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(c1nncn1C)(F)F
+142,Example 479 (Stereo) (Page No: 628),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)([C@@H](c1nncn1C)F)F
+143,Example 480 (Stereo) (Page No: 628),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)([C@@H](c1nncn1C)F)F
+144,Example 478a (Stereo) (Page No: 628),WO2019148005,301-1000,C[C@@](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)([C@H](c1nncn1C)F)F
+145,Example 478b (Stereo) (Page No: 628),WO2019148005,1001-3000,C[C@@](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)([C@H](c1nncn1C)F)F
+146,Example 296a (R) (Page No: 503),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+147,Example 296 (+/-) (Page No: 503),WO2019148005,301-1000,CC(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+148,Example 296b (S) (Page No: 503),WO2019148005,3001-10000,C[C@](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+149,Example 481a (Stereo) (Page No: 632),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CC2)C1=O)([C@H](c1nncn1C)F)F
+150,Example 481b (Stereo) (Page No: 632),WO2019148005,1001-3000,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CC2)C1=O)([C@H](c1nncn1C)F)F
+151,Example 483 (Stereo) (Page No: 632),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CC2)C1=O)([C@@H](c1nncn1C)F)F
+152,Example 482 (Stereo) (Page No: 632),WO2019148005,301-1000,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CC2)C1=O)([C@@H](c1nncn1C)F)F
+153,Example 446 (R) (Page No: 596),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@](C)(C(c1nncn1C)(F)F)F)=O)O
+154,Example 290 (+/-) (Page No: 497),WO2019148005,1001-3000,Cn1cnnc1CC(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)OC
+155,Example 291 (+/-) (Page No: 498),WO2019148005,3001-10000,CCOC(Cc1nncn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+156,Example 297 (+/-) (Page No: 504),WO2019148005,3001-10000,CC(Cc1nncn1C)(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)O
+157,Example 295 (+/-) (Page No: 502),WO2019148005,3001-10000,CC(c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)O
+158,Example 350 (R) (Page No: 539),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(cc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)NC1COC1
+159,Example 262 (R) (Page No: 475),WO2019148005,301-1000,C[C@H](Cc1nc[nH]n1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+160,Example 440 (R) (Page No: 592),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)c2cc(cnc2)F)C1=O)(C(c1nncn1C)(F)F)F
+161,Example 278 (R) (Page No: 486),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C1=O)C(N1CC(C1)O)=O)C1CC1
+162,Example 277 (Stereo) (Page No: 484),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C1=O)C(N1CC[C@@H](C1)O)=O)C1CC1
+163,Example 379 (Stereo) (Page No: 557),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N[C@H]2CCNC2)C1=O
+164,Example 380 (Stereo) (Page No: 558),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N(C)[C@H]2CCNC2)C1=O
+165,Example 393 (R) (Page No: 567),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC(C3)O)cc2C(F)(F)F)C1=O
+166,Example 406 (Stereo) (Page No: 574),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@H](C)Cc1nncn1C)=O)N1CC(C1)O
+167,Example 405 (Stereo) (Page No: 574),WO2019148005,<100,C[C@@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)[C@H](C)N2CC(C2)O)C1=O
+168,Example 397 (R) (Page No: 569),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC(C)(C3)O)cc2C(F)(F)F)C1=O
+169,Example 276 (R) (Page No: 484),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC(C2)O)=O)C1=O
+170,Example 401 (R) (Page No: 571),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC(C3)F)cc2C(F)(F)F)C1=O
+171,Example 402 (R) (Page No: 572),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC(C3)(F)F)cc2C(F)(F)F)C1=O
+172,Example 394 (Stereo) (Page No: 567),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)O)cc2C(F)(F)F)C1=O
+173,Example 416 (Stereo) (Page No: 580),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@H](C)Cc1nncn1C)=O)N1CC[C@@H](C1)O
+174,Example 398 (Stereo) (Page No: 570),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@](C)(C3)O)cc2C(F)(F)F)C1=O
+175,Example 274 (Stereo) (Page No: 483),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC[C@@H](C2)O)=O)C1=O
+176,Example 275 (Stereo) (Page No: 483),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2C[C@H](C[C@H]2C)O)=O)C1=O
+177,Example 399 (Stereo) (Page No: 570),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O
+178,Example 400 (Stereo) (Page No: 570),WO2019148005,<100,C[C@@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O
+179,Example 404 (Stereo) (Page No: 572),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@H](C)Cc1nncn1C)=O)N1CC[C@@H](C1)F
+180,Example 403 (Stereo) (Page No: 572),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)[C@@H](C)N2CC[C@@H](C2)F)C1=O
+181,Example 409 (Stereo) (Page No: 576),WO2019148005,<100,Cn1cnnc1[C@@H]1C[C@@H]1c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O
+182,Example 466 (Stereo) (Page No: 610),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@H]1C[C@H]1c1nncn1C)=O)N1CC[C@@H](C1)F
+183,Example 396 (R) (Page No: 569),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CCC(C3)(F)F)cc2C(F)(F)F)C1=O
+184,Example 395 (Stereo) (Page No: 569),WO2019148005,<100,C[C@@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3C[C@@H]([C@H](C3)F)O)cc2C(F)(F)F)C1=O
+185,Example 418 (cis) (Page No: 581),WO2019148005,<100,C[C@@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3C[C@@H]([C@@H](C3)O)F)cc2C(F)(F)F)C1=O
+186,Example 417 (R) (Page No: 581),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(CN3CC(C(C3)(F)F)O)cc2C(F)(F)F)C1=O
+187,Example 442 (R) (Page No: 593),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCNCC2)C1=O)(C(c1nncn1C)(F)F)F
+188,Example 441 (R) (Page No: 593),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCN(C)CC2)C1=O)(C(c1nncn1C)(F)F)F
+189,Example 443 (Stereo) (Page No: 594),WO2019148005,<100,C[C@@H]1CN(C)CCN1c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@](C)(C(c1nncn1C)(F)F)F)=O
+190,Example 444 (Stereo) (Page No: 594),WO2019148005,<100,C[C@H]1CN(C)CCN1c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@](C)(C(c1nncn1C)(F)F)F)=O
+191,Example 548 (Stereo) (Page No: 683),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N(C)[C@@H]2CNC[C@@H]2F)C1=O)(C(c1nncn1C)(F)F)F
+192,Example 551 (Stereo) (Page No: 685),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N(C)[C@@H]2CNC[C@H]2F)C1=O)(C(c1nncn1C)(F)F)F
+193,Example 550 (Stereo) (Page No: 685),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N(C)[C@H]2CNC[C@@H]2F)C1=O)(C(c1nncn1C)(F)F)F
+194,Example 549 (Stereo) (Page No: 684),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N(C)[C@H]2CNC[C@H]2F)C1=O)(C(c1nncn1C)(F)F)F
+195,Example 451 (R) (Page No: 600),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC(C3)F)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+196,Example 450 (Stereo) (Page No: 599),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC[C@H](C3)F)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+197,Example 449 (Stereo) (Page No: 598),WO2019148005,301-1000,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC[C@H](C3)F)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+198,Example 447 (Stereo) (Page No: 596),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+199,Example 461 (Stereo) (Page No: 605),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3C[C@@H]([C@@H](C3)F)F)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+200,Example 460 (Stereo) (Page No: 603),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@](C)(C(c1nncn1C)(F)F)F)=O)N1CC[C@@H](C1)F
+201,Example 459 (Stereo) (Page No: 603),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@](C)(C(c1nncn1C)(F)F)F)=O)N1CC[C@@H](C1)F
+202,Example 448 (R) (Page No: 598),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CCC(C3)(F)F)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+203,Example 462 (S) (Page No: 606),WO2019148005,<100,Cn1cnnc1C(C1(CC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O)(F)F
+204,Example 456 (R) (Page No: 602),WO2019148005,101-300,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC(C3)C#N)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+205,Example 455 (Stereo) (Page No: 601),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC[C@H](C3)C#N)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+206,Example 454 (Stereo) (Page No: 601),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)C#N)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+207,Example 452 (R) (Page No: 600),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC(C3)OC)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+208,Example 453 (R) (Page No: 600),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC(C3)C(F)F)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+209,Example 439 (R) (Page No: 592),WO2019148005,301-1000,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC(C2)C(F)F)=O)C1=O)(C(c1nncn1C)(F)F)F
+210,Example 438 (Stereo) (Page No: 591),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC[C@@H](C2)O)=O)C1=O)(C(c1nncn1C)(F)F)F
+211,Example 458 (Stereo) (Page No: 603),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC[C@H](C3)S(C)(=O)=O)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+212,Example 457 (Stereo) (Page No: 602),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)S(C)(=O)=O)cc2C(F)(F)F)C1=O)(C(c1nncn1C)(F)F)F
+213,Example 577 (Page No: 702),WO2019148005,101-300,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(ccc(c2C2CC2)F)C1=O
+214,Example 301 (Page No: 507),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+215,Example 437 (Page No: 591),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CO)cc2C(F)(F)F)C1=O
+216,Example 540 (+/-) (Page No: 675),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)O
+217,Example 697 (+/-) (Page No: 774),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(c2ccccc2)O)C1=O
+218,Example 580 (+/-) (Page No: 705),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(C(F)(F)F)O)C1=O
+219,Example 611 (Page No: 721),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CCC2)C1=O
+220,Example 613 (+/-) (Page No: 722),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CCOC2)C1=O
+221,Example 615 (+/-) (Page No: 723),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2CCCOC2)C1=O
+222,Example 529 (+/-) (Page No: 668),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CC3CCCO3)cc2C(F)(F)F)C1=O
+223,Example 547 (Page No: 682),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(CO)(F)F)C1=O
+224,Example 544 (Page No: 679),WO2019148005,301-1000,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(C(O)=O)(F)F)C1=O
+225,Example 612 (Page No: 722),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2COCC=2)C1=O
+226,Example 614 (Page No: 723),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2COCCC=2)C1=O
+227,Example 616 (Page No: 724),WO2019148005,<100,CC1=C(CCO1)c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+228,Example 427 (S) (Page No: 586),WO2019148005,<100,C[C@H]1C=CCN1Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+229,Example 654 (Page No: 744),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4ccccc4C3)cc2C(F)(F)F)C1=O
+230,Example 659 (Page No: 746),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4ccc(cc4C3)[Cl])cc2C(F)(F)F)C1=O
+231,Example 655 (Page No: 744),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4ccc(cc4C3)F)cc2C(F)(F)F)C1=O
+232,Example 657 (Page No: 745),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4cccc(c4C3)[Cl])cc2C(F)(F)F)C1=O
+233,Example 653 (Page No: 743),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4cccc(c4C3)F)cc2C(F)(F)F)C1=O
+234,Example 658 (Page No: 745),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4cccc(C#N)c4C3)cc2C(F)(F)F)C1=O
+235,Example 702 (Page No: 780),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4cccc(c4C3)OC)cc2C(F)(F)F)C1=O
+236,Example 656 (Page No: 744),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4ccc(cc4C3)OC)cc2C(F)(F)F)C1=O
+237,Example 607 (Page No: 719),WO2019148005,<100,CC1CN(C1)c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+238,Example 608 (+/-) (Page No: 720),WO2019148005,<100,CC1CN(C1C)c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+239,Example 594 (Page No: 713),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CC(C2)C(F)F)C1=O
+240,Example 600 (Page No: 716),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CC(C2)C(F)(F)F)C1=O
+241,Example 601 (+/-) (Page No: 717),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCC(C2)C(F)F)C1=O
+242,Example 389 (S) (Page No: 565),WO2019148005,<100,C[C@H]1CN(C)CCN1c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+243,Example 390 (R) (Page No: 566),WO2019148005,<100,C[C@@H]1CN(C)CCN1c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+244,Example 603 (Page No: 718),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CC3(CCC3(F)F)C2)C1=O
+245,Example 602 (Page No: 717),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CC3(CC(C3)(F)F)C2)C1=O
+246,Example 567 (Page No: 696),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCOCC2)C1=O
+247,Example 391 (Page No: 566),WO2019148005,<100,CN1CCN(C(C1)=O)c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+248,Example 582 (Page No: 706),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCNC3(CC3)C2)C1=O
+249,Example 583 (Page No: 707),WO2019148005,<100,CN1CCN(CC12CC2)c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+250,Example 415 (Page No: 580),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC(C3)F)cc2C(F)(F)F)C1=O
+251,Example 668a (R) (Page No: 750),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC(C1)F
+252,Example 668b (S) (Page No: 750),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC(C1)F
+253,Example 424 (Page No: 584),WO2019148005,<100,CC1(CN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C1)F
+254,Example 543a (S) (Page No: 678),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC(C)(C1)F
+255,Example 543b (R) (Page No: 678),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC(C)(C1)F
+256,Example 536 (Page No: 672),WO2019148005,<100,CC1(C)[C@H](CN1Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)F
+257,Example 410 (S) (Page No: 577),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O
+258,Example 412 (Stereo) (Page No: 578),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC[C@@H](C1)F
+259,Example 413 (Stereo) (Page No: 578),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC[C@@H](C1)F
+260,Example 545 (Stereo) (Page No: 680),WO2019148005,<100,CC[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC[C@@H](C1)F
+261,Example 546 (Stereo) (Page No: 680),WO2019148005,<100,CC[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC[C@@H](C1)F
+262,Example 414 (cis) (Page No: 580),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C[C@@H]([C@@H](C3)F)F)cc2C(F)(F)F)C1=O
+263,Example 435 (+/-) (Page No: 590),WO2019148005,<100,CC1(CCN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C1)F
+264,Example 411 (Page No: 577),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(C3)(F)F)cc2C(F)(F)F)C1=O
+265,Example 419 (R) (Page No: 582),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCC(C1)(F)F
+266,Example 420 (S) (Page No: 582),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCC(C1)(F)F
+267,Example 581 (+/-) (Page No: 705),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(C(F)(F)F)N2CCCC2)C1=O
+268,Example 432 (S) (Page No: 588),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC[C@@H](C3)F)cc2C(F)(F)F)C1=O
+269,Example 623 (R) (Page No: 729),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC[C@H](C3)F)cc2C(F)(F)F)C1=O
+270,Example 639a (Stereo) (Page No: 736),WO2019148005,<100,C[C@@H]1CCN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C[C@@H]1F
+271,Example 639b (Stereo) (Page No: 736),WO2019148005,<100,C[C@@H]1CCN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C[C@@H]1F
+272,Example 631 (trans) (Page No: 733),WO2019148005,<100,C[C@H]1CCN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C[C@@H]1F
+273,Example 634 (cis) (Page No: 734),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@H]([C@H](C3)F)F)cc2C(F)(F)F)C1=O
+274,Example 626a (Stereo) (Page No: 730),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H]([C@H](C3)F)F)cc2C(F)(F)F)C1=O
+275,Example 626b (Stereo) (Page No: 730),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H]([C@H](C3)F)F)cc2C(F)(F)F)C1=O
+276,Example 627 (+/-) (Page No: 731),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCCC(C3)F)cc2C(F)(F)F)C1=O
+277,Example 693 (Page No: 770),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC(C3)(F)F)cc2C(F)(F)F)C1=O
+278,Example 635 (+/-) (Page No: 735),WO2019148005,<100,CC1CCN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)CC1(F)F
+279,Example 644a (S) (Page No: 739),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](CO)C(C3)(F)F)cc2C(F)(F)F)C1=O
+280,Example 644b (R) (Page No: 739),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@H](CO)C(C3)(F)F)cc2C(F)(F)F)C1=O
+281,Example 643 (Page No: 738),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)C(F)F)cc2C(F)(F)F)C1=O
+282,Example 621 (cis) (Page No: 727),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@H]([C@H](C3)F)OC)cc2C(F)(F)F)C1=O
+283,Example 625 (Page No: 730),WO2019148005,<100,CN1CCN(CC1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+284,Example 624 (Page No: 729),WO2019148005,<100,CCN1CCN(CC1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+285,Example 632 (Page No: 733),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)OC)cc2C(F)(F)F)C1=O
+286,Example 662a (R) (Page No: 747),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)c3ccccc3)cc2C(F)(F)F)C1=O
+287,Example 662b (S) (Page No: 747),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@H](C3)c3ccccc3)cc2C(F)(F)F)C1=O
+288,Example 489 (Page No: 639),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)F)cc2C(F)(F)F)C1=O
+289,Example 620 (Page No: 727),WO2019148005,<100,CC1(CCN(CC1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)F
+290,Example 553a (S) (Page No: 687),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCC(C)(CC1)F
+291,Example 553b (R) (Page No: 687),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCC(C)(CC1)F
+292,Example 633 (Page No: 734),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)(F)F)cc2C(F)(F)F)C1=O
+293,Example 528 (Page No: 667),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC(CC3)(F)F)cc2C(F)(F)F)C1=O
+294,Example 647 (+/-) (Page No: 741),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(C(C3)O)(F)F)cc2C(F)(F)F)C1=O
+295,Example 588 (+/-) (Page No: 709),WO2019148005,<100,CC1C(CCN1Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)C(F)(F)F
+296,Example 423 (Page No: 584),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC(C3)C#N)cc2C(F)(F)F)C1=O
+297,Example 425 (Page No: 585),WO2019148005,<100,CC1(CN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C1)C#N
+298,Example 421 (R) (Page No: 583),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@H](C3)C#N)cc2C(F)(F)F)C1=O
+299,Example 422 (S) (Page No: 583),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)C#N)cc2C(F)(F)F)C1=O
+300,Example 628 (Page No: 732),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)C#N)cc2C(F)(F)F)C1=O
+301,Example 642 (Page No: 738),WO2019148005,<100,CC1(CCN(CC1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)C#N
+302,Example 426 (Page No: 585),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC3=O)cc2C(F)(F)F)C1=O
+303,Example 487 (Page No: 638),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC4(CC4)C3)cc2C(F)(F)F)C1=O
+304,Example 520 (Page No: 661),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C3)cc2C(F)(F)F)C1=O
+305,Example 701 (+/-) (Page No: 779),WO2019148005,301-1000,CC(c1nncn1C)C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C3)cc2C(F)(F)F)C1=O
+306,Example 517a (S) (Page No: 656),WO2019148005,<100,Cn1cnnc1C[C@]1(CCOC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C3)cc2C(F)(F)F)C1=O
+307,Example 517b (R) (Page No: 657),WO2019148005,<100,Cn1cnnc1C[C@@]1(CCOC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C3)cc2C(F)(F)F)C1=O
+308,Example 641 (Page No: 738),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC3)CC4)cc2C(F)(F)F)C1=O
+309,Example 558a (S) (Page No: 690),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCC2(CC1)CC2
+310,Example 558b (R) (Page No: 690),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CCC2(CC1)CC2
+311,Example 636 (Page No: 735),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C(C3)(F)F)cc2C(F)(F)F)C1=O
+312,Example 695 (Page No: 773),WO2019148005,<100,Cn1cnnc1CC1(CCC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C3)cc2C(F)(F)F)C1=O
+313,Example 429 (Stereo) (Page No: 587),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C[C@H]4C[C@H]4C3)cc2C(F)(F)F)C1=O
+314,Example 541a (S) (Page No: 676),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC2CC2C1
+315,Example 541b (R) (Page No: 676),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC2CC2C1
+316,Example 491 (+/-) (Page No: 640),WO2019148005,<100,CC12CC2CN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C1
+317,Example 488 (Page No: 639),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC4C(C3)C4(F)F)cc2C(F)(F)F)C1=O
+318,Example 646 (+/-) (Page No: 740),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4CC4C3)cc2C(F)(F)F)C1=O
+319,Example 640 (Page No: 737),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC4CC(C3)C4(F)F)cc2C(F)(F)F)C1=O
+320,Example 431 (Page No: 588),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOCC3)cc2C(F)(F)F)C1=O
+321,Example 663a (S) (Page No: 748),WO2019148005,<100,C[C@H]1CN(CCO1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+322,Example 663b (R) (Page No: 748),WO2019148005,<100,C[C@@H]1CN(CCO1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+323,Example 664 (cis) (Page No: 748),WO2019148005,<100,C[C@H]1CN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C[C@@H](C)O1
+324,Example 665 (Page No: 749),WO2019148005,<100,CC1(C)CN(CCO1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+325,Example 637 (+/-) (Page No: 735),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC(C3)OC)cc2C(F)(F)F)C1=O
+326,Example 629 (+/-) (Page No: 732),WO2019148005,<100,CCOC1CCCN(C1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+327,Example 716 (+/-) (Page No: 788),WO2019148005,<100,CC(C)C1CN(CCO1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+328,Example 718 (+/-) (Page No: 789),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC(C3)C3CC3)cc2C(F)(F)F)C1=O
+329,Example 719 (+/-) (Page No: 789),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC(C3)C3CCC3)cc2C(F)(F)F)C1=O
+330,Example 717 (+/-) (Page No: 788),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC(CCO)C3)cc2C(F)(F)F)C1=O
+331,Example 714 (+/-) (Page No: 787),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC(C3)CF)cc2C(F)(F)F)C1=O
+332,Example 630 (+/-) (Page No: 732),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC(C3)C(F)F)cc2C(F)(F)F)C1=O
+333,Example 707 (S) (Page No: 784),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCO[C@@H](C3)C(F)(F)F)cc2C(F)(F)F)C1=O
+334,Example 521 (+/-) (Page No: 662),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC(CCF)C3)cc2C(F)(F)F)C1=O
+335,Example 715 (+/-) (Page No: 787),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC(CC(F)(F)F)C3)cc2C(F)(F)F)C1=O
+336,Example 710 (S) (Page No: 785),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCO[C@@H](C3)CO)cc2C(F)(F)F)C1=O
+337,Example 667 (S) (Page No: 750),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCO[C@@H](C3)COC)cc2C(F)(F)F)C1=O
+338,Example 434 (Page No: 589),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCS(CC3)(=O)=O)cc2C(F)(F)F)C1=O
+339,Example 430 (+/-) (Page No: 587),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)N1CC(C1)S(C)(=O)=O
+340,Example 428 (Page No: 587),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC(C3)C(O)=O)cc2C(F)(F)F)C1=O
+341,Example 530 (+/-) (Page No: 668),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CC3CNCCC3=O)cc2C(F)(F)F)C1=O
+342,Example 531 (+/-) (Page No: 669),WO2019148005,<100,CN1CCC(C(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C1)=O
+343,Example 532 (cis) (Page No: 670),WO2019148005,<100,CN1CC[C@@H]([C@H](Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C1)O
+344,Example 533 (Stereo) (Page No: 670),WO2019148005,<100,CN1CC[C@@H]([C@@H](Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)C1)O
+345,Example 673a (S) (Page No: 756),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC3)cc2C(F)(F)F)C1=O)F
+346,Example 673b (R) (Page No: 756),WO2019148005,<100,Cn1cnnc1[C@@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC3)cc2C(F)(F)F)C1=O)F
+347,Example 674a (S) (Page No: 756),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCCC3)cc2C(F)(F)F)C1=O)F
+348,Example 674b (R) (Page No: 757),WO2019148005,<100,Cn1cnnc1[C@@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCCC3)cc2C(F)(F)F)C1=O)F
+349,Example 670a (S) (Page No: 752),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)F)cc2C(F)(F)F)C1=O)F
+350,Example 670b (R) (Page No: 753),WO2019148005,<100,Cn1cnnc1[C@@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)F)cc2C(F)(F)F)C1=O)F
+351,Example 679 (Page No: 760),WO2019148005,<100,Cn1cnnc1C(C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC(C3)F)cc2C(F)(F)F)C1=O)(F)F
+352,Example 570 (Stereo) (Page No: 697),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(COC1)C(c1nncn1C)(F)F)=O)N1CC[C@@H](C1)F
+353,Example 571 (Stereo) (Page No: 697),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(COC1)C(c1nncn1C)(F)F)=O)N1CC[C@@H](C1)F
+354,Example 678 (S) (Page No: 760),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(COC1)C(c1nncn1C)(F)F)=O)N1CC[C@@H](C1)F
+355,Example 618 (S) (Page No: 726),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C3)cc2C(F)(F)F)C1=O)F
+356,Example 515 (Stereo) (Page No: 655),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(COC1)[C@@H](c1nncn1C)F)=O)N1CCC2(CC2)C1
+357,Example 576 (Stereo) (Page No: 701),WO2019148005,<100,C[C@@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(COC1)[C@@H](c1nncn1C)F)=O)N1CCC2(CC2)C1
+358,Example 516 (Stereo) (Page No: 655),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(COC1)[C@@H](c1nncn1C)F)=O)N1CCC2(CC2)C1
+359,Example 575 (Stereo) (Page No: 701),WO2019148005,<100,C[C@H](c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(COC1)[C@@H](c1nncn1C)F)=O)N1CCC2(CC2)C1
+360,Example 554 (S) (Page No: 689),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C1=O)C1CC1
+361,Example 552 (Page No: 686),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)F)cc2C1=O)C1CC1
+362,Example 433 (Page No: 589),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC34COC4)cc2C(F)(F)F)C1=O
+363,Example 666 (Page No: 749),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC4(CC4)C3)cc2C(F)(F)F)C1=O
+364,Example 703 (Page No: 781),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC4(CCC4)C3)cc2C(F)(F)F)C1=O
+365,Example 712 (+/-) (Page No: 786),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCOC4(CCOC4)C3)cc2C(F)(F)F)C1=O
+366,Example 468 (S) (Page No: 613),WO2019148005,<100,CCOc1cc(cc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O)C1(Cc2nncn2C)COC1
+367,Example 691b (Stereo) (Page No: 768),WO2019148005,<100,CCOc1cc(cc(c1)N1Cc2c(cc(cc2C(F)(F)F)[C@H](C)N2CC[C@@H](C2)F)C1=O)C1(Cc2nncn2C)COC1
+368,Example 691a (Stereo) (Page No: 768),WO2019148005,<100,CCOc1cc(cc(c1)N1Cc2c(cc(cc2C(F)(F)F)[C@@H](C)N2CC[C@@H](C2)F)C1=O)C1(Cc2nncn2C)COC1
+369,Example 708 (Stereo) (Page No: 784),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@H]4[C@H](CCO4)C3)cc2C(F)(F)F)C1=O
+370,Example 648 (Page No: 741),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCc4cnccc4C3)cc2C(F)(F)F)C1=O
+371,Example 638 (Page No: 736),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCc4ccncc4C3)cc2C(F)(F)F)C1=O
+372,Example 650 (Page No: 742),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCc4ccccc4C3)cc2C(F)(F)F)C1=O
+373,Example 706 (Page No: 783),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCc4cc(C#N)ccc4C3)cc2C(F)(F)F)C1=O
+374,Example 661 (Page No: 746),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCc4ccc(cc4C3)OC)cc2C(F)(F)F)C1=O
+375,Example 486a (Stereo) (Page No: 638),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H]4C[C@H]34)cc2C(F)(F)F)C1=O
+376,Example 486b (Stereo) (Page No: 638),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H]4C[C@H]34)cc2C(F)(F)F)C1=O
+377,Example 490 (+/-) (Page No: 639),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCC4CC34)cc2C(F)(F)F)C1=O
+378,Example 542 (+/-) (Page No: 677),WO2019148005,<100,CC(c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O)n1ccnc1
+379,Example 590 (R) (Page No: 710),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCN3CCC[C@@H]3C2)C1=O
+380,Example 591 (S) (Page No: 711),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCN3CCC[C@H]3C2)C1=O
+381,Example 711 (+/-) (Page No: 785),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCN4C(CCC4=O)C3)cc2C(F)(F)F)C1=O
+382,Example 513 (Page No: 653),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)OC2CC2)C1=O
+383,Example 514 (Page No: 654),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)OC2CNC2)C1=O
+384,Example 595 (Page No: 714),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)OC(F)F)C1=O
+385,Example 713 (Stereo) (Page No: 786),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H]4[C@H](C3)OCCN4)cc2C(F)(F)F)C1=O
+386,Example 561 (Page No: 693),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CCOC2=O)C1=O
+387,Example 660 (Page No: 746),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3Cc4cccnc4C3)cc2C(F)(F)F)C1=O
+388,Example 709 (Page No: 784),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCc4c(C3)cccn4)cc2C(F)(F)F)C1=O
+389,Example 645 (Page No: 740),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCc4cccnc4C3)cc2C(F)(F)F)C1=O
+390,Example 555 (Page No: 689),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C4CCC3CC4)cc2C(F)(F)F)C1=O
+391,Example 556 (+/-) (Page No: 690),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C4CCCC3CC4)cc2C(F)(F)F)C1=O
+392,Example 557 (Stereo) (Page No: 690),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3[C@H]4CC[C@@H]3CC(C4)F)cc2C(F)(F)F)C1=O
+393,Example 671a (S) (Page No: 754),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C4CCC3CC4)cc2C(F)(F)F)C1=O)F
+394,Example 671b (R) (Page No: 754),WO2019148005,<100,Cn1cnnc1[C@@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C4CCC3CC4)cc2C(F)(F)F)C1=O)F
+395,Example 675a (S) (Page No: 757),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C4CCCC3CC4)cc2C(F)(F)F)C1=O)F
+396,Example 675b (R) (Page No: 758),WO2019148005,<100,Cn1cnnc1[C@@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3C4CCCC3CC4)cc2C(F)(F)F)C1=O)F
+397,Example 672a (Stereo) (Page No: 755),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3[C@H]4CC[C@@H]3CC(C4)F)cc2C(F)(F)F)C1=O)F
+398,Example 672b (Stereo) (Page No: 755),WO2019148005,<100,Cn1cnnc1[C@H](C1(COC1)c1cccc(c1)N1Cc2c(cc(CN3[C@H]4CC[C@@H]3CC(C4)F)cc2C(F)(F)F)C1=O)F
+399,Example 388 (+/-) (Page No: 565),WO2019148005,<100,CN1C2CCC1CN(C2)c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+400,Example 564 (R) (Page No: 694),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CC3CCC(C2)N3C)C1=O)(C(c1nncn1C)(F)F)F
+401,Example 386 (+/-) (Page No: 564),WO2019148005,<100,CN1CC2CCC(C1)N2c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+402,Example 445 (R) (Page No: 595),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2C3CCC2CN(C)C3)C1=O)(C(c1nncn1C)(F)F)F
+403,Example 559 (Page No: 691),WO2019148005,101-300,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C2=CN3CCC2CC3)C1=O
+404,Example 560 (Page No: 692),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)[C@H]2CN3CCC2CC3)C1=O
+405,Example 619 (+/-) (Page No: 727),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CC4CC3CO4)cc2C(F)(F)F)C1=O
+406,Example 569 (Stereo) (Page No: 697),WO2019148005,<100,CN1C[C@@H]2C[C@@H]1CN2c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+407,Example 566 (R) (Page No: 695),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2C3CC2CN(C)C3)C1=O)(C(c1nncn1C)(F)F)F
+408,Example 562 (Stereo) (Page No: 693),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2C[C@@H]3C[C@@H]2CN3C)C1=O)(C(c1nncn1C)(F)F)F
+409,Example 563 (Stereo) (Page No: 694),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2C[C@H]3C[C@H]2CN3C)C1=O)(C(c1nncn1C)(F)F)F
+410,Example 387 (+/-) (Page No: 564),WO2019148005,<100,CN1CC2CCC1CN2c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+411,Example 565 (R) (Page No: 695),WO2019148005,<100,C[C@@](c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)N2CC3CCC2CN3C)C1=O)(C(c1nncn1C)(F)F)F
+412,Example 363 (R) (Page No: 545),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cc(NC)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+413,Example 360 (R) (Page No: 544),WO2019148005,<100,CCNc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C
+414,Example 353 (R) (Page No: 541),WO2019148005,<100,CC(C)Nc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C
+415,Example 357 (R) (Page No: 543),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cc(NCCO)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+416,Example 365 (Stereo) (Page No: 546),WO2019148005,101-300,C[C@@H](CO)Nc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C
+417,Example 366 (Stereo) (Page No: 547),WO2019148005,101-300,C[C@@H](Cc1nncn1C)c1cc(N[C@@H](C)CO)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+418,Example 364 (Stereo) (Page No: 546),WO2019148005,301-1000,C[C@@H](CNc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C)O
+419,Example 351 (R) (Page No: 540),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cc(NC2CCC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+420,Example 352 (R) (Page No: 540),WO2019148005,<100,C[C@@H](Cc1nncn1C)c1cc(NC2COC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+421,Example 349 (R) (Page No: 539),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(NC2(C)COC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+422,Example 689a (Stereo) (Page No: 766),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(N[C@@H]2CC[C@@H]2O)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+423,Example 689b (Stereo) (Page No: 766),WO2019148005,301-1000,C[C@@H](Cc1nncn1C)c1cc(N[C@@H]2CC[C@@H]2O)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+424,Example 362 (Stereo) (Page No: 545),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cc(N[C@H]2CCOC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+425,Example 361 (Stereo) (Page No: 544),WO2019148005,301-1000,C[C@@H](Cc1nncn1C)c1cc(N[C@H]2CCOC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+426,Example 680 (R) (Page No: 761),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cc(C2CC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+427,Example 681 (R) (Page No: 762),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(C2(C)CC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+428,Example 304b (R) (Page No: 511),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1ccnc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+429,Example 304a (S) (Page No: 511),WO2019148005,3001-10000,C[C@@H](Cc1nncn1C)c1ccnc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+430,Example 687 (R) (Page No: 764),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(C2CCOC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+431,Example 686 (R) (Page No: 764),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(C2CCOCC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+432,Example 685 (R) (Page No: 763),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(C2CCOCC=2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+433,Example 358 (R) (Page No: 543),WO2019148005,<100,CCOc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C
+434,Example 688 (R) (Page No: 765),WO2019148005,301-1000,CCCOc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C
+435,Example 359 (R) (Page No: 544),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(nc(c1)OCCO)N1Cc2c(cccc2C(F)(F)F)C1=O
+436,Example 356 (R) (Page No: 542),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cc(nc(c1)OCC(F)F)N1Cc2c(cccc2C(F)(F)F)C1=O
+437,Example 354 (R) (Page No: 541),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cc(nc(c1)OC1COC1)N1Cc2c(cccc2C(F)(F)F)C1=O
+438,Example 355 (R) (Page No: 542),WO2019148005,301-1000,CC1C(CO1)Oc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C
+439,Example 682 (R) (Page No: 762),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(c2cncs2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+440,Example 279 (R) (Page No: 487),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)c2ccn[nH]2)C1=O
+441,Example 377 (R) (Page No: 556),WO2019148005,<100,Cc1c[nH]nc1c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@H](C)Cc1nncn1C)=O
+442,Example 381 (R) (Page No: 559),WO2019148005,<100,Cc1c(cn[nH]1)c1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)[C@H](C)Cc1nncn1C)=O
+443,Example 378 (R) (Page No: 557),WO2019148005,<100,Cc1c(c2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)[C@H](C)Cc2nncn2C)=O)c(C)[nH]n1
+444,Example 385 (Page No: 563),WO2019148005,<100,Cc1c(c2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)C2(Cc3nncn3C)COC2)=O)c(C)[nH]n1
+445,Example 683 (R) (Page No: 763),WO2019148005,101-300,Cc1cn[nH]c1c1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)[C@H](C)Cc1nncn1C
+446,Example 684 (R) (Page No: 763),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cc(c2cn[nH]c2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+447,Example 384 (R) (Page No: 562),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)n2cccn2)C1=O
+448,Example 652 (Page No: 743),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCc4c3cn(C)n4)cc2C(F)(F)F)C1=O
+449,Example 651 (Page No: 743),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCCc4c3cnn4C)cc2C(F)(F)F)C1=O
+450,Example 523 (Page No: 664),WO2019148005,101-300,Cn1cnnc1c1cnn(C)c1c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+451,Example 524 (R) (Page No: 664),WO2019148005,<100,C[C@@H]1CN(CCO1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)c1c(cnn1C)c1nncn1C)=O
+452,Example 525 (Stereo) (Page No: 665),WO2019148005,<100,C[C@H]1CN(Cc2cc3C(N(Cc3c(c2)C(F)(F)F)c2cccc(c2)c2c(cnn2C)c2nncn2C)=O)C[C@@H](C)O1
+453,Example 649 (Page No: 742),WO2019148005,<100,Cc1nc2CN(CCc2o1)Cc1cc2C(N(Cc2c(c1)C(F)(F)F)c1cccc(c1)C1(Cc2nncn2C)COC1)=O
+454,Example 367a (R) (Page No: 547),WO2019148005,101-300,Cc1conc1C[C@@H](C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+455,Example 268 (+/-) (Page No: 478),WO2019148005,301-1000,Cc1conc1C[C@@H](C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+456,Example 367b (S) (Page No: 547),WO2019148005,1001-3000,Cc1conc1C[C@@H](C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+457,Example 269 (+/-) (Page No: 479),WO2019148005,1001-3000,CC(Cc1c(CO)con1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+458,Example 407 (Stereo) (Page No: 575),WO2019148005,<100,Cc1conc1C[C@@H](C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC[C@@H](C2)O)=O)C1=O
+459,Example 484 (Stereo) (Page No: 635),WO2019148005,101-300,C[C@H](Cc1c(con1)C(F)(F)F)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC[C@@H](C2)O)=O)C1=O
+460,Example 485 (Stereo) (Page No: 637),WO2019148005,101-300,C[C@H](Cc1c(con1)C(F)(F)F)c1cccc(c1)N1Cc2c(cc(CN3CC[C@@H](C3)F)cc2C(F)(F)F)C1=O
+461,Example 535 (Page No: 671),WO2019148005,<100,Cc1conc1CC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC4(CC4)C3)cc2C(F)(F)F)C1=O
+462,Example 272a (R) (Page No: 482),WO2019148005,101-300,Cc1c(C[C@@H](C)c2cccc(c2)N2Cc3c(cccc3C(F)(F)F)C2=O)nc[nH]1
+463,Example 272 (+/-) (Page No: 481),WO2019148005,301-1000,Cc1c(C[C@@H](C)c2cccc(c2)N2Cc3c(cccc3C(F)(F)F)C2=O)nc[nH]1
+464,Example 267a (R) (Page No: 478),WO2019148005,1001-3000,C[C@H](Cc1nccn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+465,Example 267 (+/-) (Page No: 477),WO2019148005,3001-10000,CC(Cc1nccn1C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+466,Example 261 (R) (Page No: 475),WO2019148005,3001-10000,C[C@H](Cc1ncco1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+467,Example 368 (R) (Page No: 548),WO2019148005,301-1000,C[C@H](Cc1nncs1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+468,Example 266 (R) (Page No: 477),WO2019148005,3001-10000,C[C@H](Cc1nnco1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+469,Example 463 (Stereo) (Page No: 606),WO2019148005,<100,Cc1c[nH]nc1C[C@H](C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC[C@@H](C2)O)=O)C1=O
+470,Example 464 (Stereo) (Page No: 607),WO2019148005,<100,Cc1c[nH]nc1C[C@@H](C)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2C[C@H](C[C@H]2C)O)=O)C1=O
+471,Example 465 (Stereo) (Page No: 608),WO2019148005,<100,C[C@H](Cc1c(c[nH]n1)C(F)(F)F)c1cccc(c1)N1Cc2c(cc(cc2C(F)(F)F)C(N2CC[C@@H](C2)O)=O)C1=O
+472,Example 270a (S) (Page No: 479),WO2019148005,301-1000,Cc1c[nH]nc1C[C@H](C)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+473,Example 271b (R) (Page No: 480),WO2019148005,1001-3000,C[C@H](Cc1c(CO)c[nH]n1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+474,Example 271 (+/-) (Page No: 480),WO2019148005,3001-10000,CC(Cc1c(CO)c[nH]n1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+475,Example 271a (S) (Page No: 480),WO2019148005,>10000,C[C@@H](Cc1c(CO)c[nH]n1)c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O
+476,Example 166a (S) (Page No: 423),WO2019148005,101-300,C[C@@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+477,Example 166b (R) (Page No: 424),WO2019148005,1001-3000,C[C@H](c1cccc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+478,Example 168a (S) (Page No: 426),WO2019148005,101-300,C[C@@H](c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+479,Example 168 (+/-) (Page No: 425),WO2019148005,301-1000,CC(c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+480,Example 168b (R) (Page No: 426),WO2019148005,1001-3000,C[C@H](c1cc(cc(c1)F)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+481,Example 169 (S) (Page No: 426),WO2019148005,1001-3000,C[C@@H](c1ccc(c(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)F)Sc1nncn1C
+482,Example 170 (R) (Page No: 427),WO2019148005,>10000,C[C@H](c1ccc(c(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)F)Sc1nncn1C
+483,Example 164 (S) (Page No: 422),WO2019148005,301-1000,C[C@@H](c1cccc(c1)N1Cc2cc(ccc2C1=O)[Cl])Sc1nncn1C
+484,Example 163 (+/-) (Page No: 421),WO2019148005,3001-10000,CC(c1cccc(c1)N1Cc2ccc(cc2C1=O)[Cl])Sc1nncn1C
+485,Example 165 (+/-) (Page No: 423),WO2019148005,3001-10000,CC(c1cccc(c1)N1Cc2ccc(cc2C1=O)C(C)(C)O)Sc1nncn1C
+486,Example 172a (S) (Page No: 427),WO2019148005,301-1000,C[C@@H](c1ccnc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+487,Example 172b (R) (Page No: 427),WO2019148005,3001-10000,C[C@H](c1ccnc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+488,Example 175 (+/-) (Page No: 429),WO2019148005,3001-10000,CC(c1cc(N)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+489,Example 178 (+/-) (Page No: 431),WO2019148005,301-1000,CCNc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(C)Sc1nncn1C
+490,Example 180 (+/-) (Page No: 431),WO2019148005,1001-3000,CC(c1cc(NC)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+491,Example 176 (+/-) (Page No: 430),WO2019148005,301-1000,CC(CO)Nc1cc(cc(n1)N1Cc2c(cccc2C(F)(F)F)C1=O)C(C)Sc1nncn1C
+492,Example 174 (+/-) (Page No: 429),WO2019148005,1001-3000,CC(c1cc(NCCO)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+493,Example 177 (S) (Page No: 430),WO2019148005,3001-10000,CC(c1cc(NC[C@H](C)O)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+494,Example 179 (+/-) (Page No: 431),WO2019148005,3001-10000,CC(c1cc(NC2CCOC2)nc(c1)N1Cc2c(cccc2C(F)(F)F)C1=O)Sc1nncn1C
+495,Example 173 (+/-) (Page No: 429),WO2019148005,3001-10000,CC(c1ccnc(c1)N1Cc2ccc(cc2C1=O)C(NC)=O)Sc1nncn1C
+496,Example 167 (S) (Page No: 424),WO2019148005,301-1000,C[C@@H](c1cccc(c1)N1Cc2c(ccnc2[Cl])C1=O)Sc1nncn1C
+497,Example 700 (Page No: 778),WO2019148005,101-300,Cn1cnnc1OC1(COC1)c1cccc(c1)N1Cc2c(cc(CN3CCC(CC3)F)cc2C(F)(F)F)C1=O
+498,"Compound 14 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1ccnc(c1)C(Nc1cccc(C(F)(F)F)n1)=O
+499,Example 302 (R) (Page No: 508),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1ccnc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+500,"Compound 18 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,>5000,C[C@H](Cc1nncn1C)c1cccc(c1)C(Nc1cccc(C(F)(F)F)n1)=O
+501,Example 321 (R) (Page No: 522),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cccc(C(C)(C)C)n1)=O
+502,Example 202 (R) (Page No: 443),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cccc(CCO)n1)=O
+503,Example 183a (R) (Page No: 433),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+504,Example 183b (S) (Page No: 433),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+505,Example 284 (Page No: 494),WO2019148005,<100,CC(C)(Cc1nncn1C)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+506,Example 184 (R) (Page No: 434),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(F)(F)F)=O
+507,Example 188 (R) (Page No: 435),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cccc(C(CO)(F)F)n1)=O
+508,Example 191 (R) (Page No: 436),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C1CC1)=O
+509,Example 322 (S) (Page No: 522),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C1CC1)=O
+510,Example 320 (R) (Page No: 521),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C(C)(C)O)=O
+511,Example 192 (R) (Page No: 437),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)OC)=O
+512,Example 190 (R) (Page No: 436),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C1(COC1)O)=O
+513,Example 186 (R) (Page No: 434),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(c(cn1)[Cl])C(C)(C)O)=O
+514,Example 189 (R) (Page No: 435),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cncc(C(F)(F)F)n1)=O
+515,Example 203 (R) (Page No: 444),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ccc(CO)c(C2CC2)n1)=O
+516,Example 376 (R) (Page No: 556),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ccc(CNC)c(C2CC2)n1)=O
+517,Example 288 (trans) (Page No: 496),WO2019148005,3001-10000,Cc1ccc(C(Nc2cccc(c2)[C@H](C)[C@@H](c2nncn2C)O)=O)nc1C1CC1
+518,Example 286 (+/-) (Page No: 495),WO2019148005,101-300,Cc1ccc(C(Nc2cccc(c2)[C@@H](C)C(c2nncn2C)(F)F)=O)nc1C1CC1
+519,Example 287 (+/-) (Page No: 495),WO2019148005,101-300,C[C@H](c1cccc(c1)NC(c1ccc(CO)c(C2CC2)n1)=O)C(c1nncn1C)(F)F
+520,Example 198 (R) (Page No: 440),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C2CC2)n1)S(C)(=O)=O)=O
+521,"Example 198b (S) (Page No: 72, Table No: 1)",WO2019148005,3001-10000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C2CC2)n1)S(C)(=O)=O)=O
+522,Example 200 (R) (Page No: 441),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)S(N)(=O)=O)=O
+523,Example 201 (R) (Page No: 442),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)S(NC)(=O)=O)=O
+524,Example 185 (R) (Page No: 434),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cccc(n1)S(C)(=O)=O)=O
+525,Example 199 (R) (Page No: 441),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ccnc(C2CC2)n1)=O
+526,Example 333 (Stereo) (Page No: 528),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)[C@H]2C[C@H]2c2nncn2C)=O)nc(C2CC2)n1
+527,Example 511 (Page No: 652),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C(C)(C)Cc2nncn2C)=O)nc(C2CC2)n1
+528,Example 694 (Page No: 771),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(CCC2)Cc2nncn2C)=O)nc(C2CC2)n1
+529,Example 195 (R) (Page No: 439),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)[C@H](C)Cc2nncn2C)=O)nc(C2CC2)n1
+530,Example 325 (S) (Page No: 524),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)[C@@H](C)Cc2nncn2C)=O)nc(C2CC2)n1
+531,Example 193 (R) (Page No: 437),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(C2CC2)nc(C2CC2)n1)=O
+532,Example 344 (R) (Page No: 533),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)[C@](C)(C(c2nncn2C)(F)F)F)=O)nc(C2CC2)n1
+533,Example 346 (Page No: 534),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(CC2)C(c2nncn2C)(F)F)=O)nc(C2CC2)n1
+534,Example 526 (Page No: 665),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)CC(C2)(F)F)=O)nc(C2CC2)n1
+535,Example 187 (R) (Page No: 435),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ccnc(C(F)(F)F)n1)=O
+536,Example 194 (R) (Page No: 438),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)[C@H](C)Cc2nncn2C)=O)nc(C(F)(F)F)n1
+537,Example 285 (Page No: 494),WO2019148005,101-300,CC(C)(Cc1nncn1C)c1cccc(c1)NC(c1ccnc(C(F)(F)F)n1)=O
+538,Example 336 (Page No: 529),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1
+539,Example 340 (Page No: 531),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CCC2)n1
+540,Example 347 (Page No: 537),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(C2CC2)nc(C2CC2)n1)=O
+541,Example 698 (Page No: 774),WO2019148005,<100,Cc1cc(C(Nc2cc(cc(c2)C2(Cc3nncn3C)COC2)C2CC2)=O)nc(C2CC2)n1
+542,Example 705 (Page No: 782),WO2019148005,3001-10000,CCn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(C)nc(C2CC2)n1)=O
+543,Example 534a (S) (Page No: 671),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)[C@@]2(CCOC2)Cc2nncn2C)=O)nc(C2CC2)n1
+544,Example 534b (R) (Page No: 671),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)[C@]2(CCOC2)Cc2nncn2C)=O)nc(C2CC2)n1
+545,Example 704 (Page No: 781),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C(F)F)COC2)=O)nc(C2CC2)n1
+546,Example 337 (Page No: 529),WO2019148005,101-300,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1ccnc(C(F)(F)F)n1)=O
+547,Example 338 (Page No: 530),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C(F)(F)F)n1
+548,Example 341 (Page No: 532),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(C2CC2)nc(C(F)(F)F)n1)=O
+549,Example 339 (Page No: 530),WO2019148005,<100,Cc1cc(C2CC2)nc(c1)C(Nc1cccc(c1)C1(Cc2nncn2C)COC1)=O
+550,Example 669a (S) (Page No: 751),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(COC2)[C@@H](c2nncn2C)F)=O)nc(C2CC2)n1
+551,Example 669b (R) (Page No: 751),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(COC2)[C@H](c2nncn2C)F)=O)nc(C2CC2)n1
+552,Example 676 (Page No: 758),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)C2(COC2)C(c2nncn2C)(F)F)=O)nc(C2CC2)n1
+553,Example 342 (Page No: 532),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(nc(C2CC2)n1)OC)=O
+554,Example 690 (Page No: 767),WO2019148005,<100,CCOc1cc(cc(c1)NC(c1cc(C)nc(C2CC2)n1)=O)C1(Cc2nncn2C)COC1
+555,Example 518 (Page No: 659),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)C2CCCC=2c2nncn2C)=O)nc(C2CC2)n1
+556,Example 503 (Page No: 648),WO2019148005,<100,CN(C)Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1
+557,Example 504 (Page No: 649),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CCC2)nc(C2CC2)n1)=O
+558,Example 589 (Page No: 710),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CCCCC2)nc(C2CC2)n1)=O
+559,Example 593 (+/-) (Page No: 713),WO2019148005,<100,CC(c1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1)N1CCCC1
+560,Example 505 (S) (Page No: 649),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CC[C@@H](C2)O)nc(C2CC2)n1)=O
+561,Example 574 (S) (Page No: 700),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CC[C@@H](C2)F)nc(C2CC2)n1)=O
+562,Example 699 (S) (Page No: 776),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CC[C@@H](C2)F)nc(C(F)(F)F)n1)=O
+563,Example 538 (+/-) (Page No: 673),WO2019148005,<100,CC(c1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1)N1CC(C1)F
+564,Example 496 (S) (Page No: 642),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CC[C@@H](C2)F)cc(C2CC2)n1)=O
+565,Example 501 (R) (Page No: 646),WO2019148005,<100,C[C@@H]1CN(CCO1)Cc1cc(C2CC2)nc(c1)C(Nc1cccc(c1)C1(Cc2nncn2C)COC1)=O
+566,Example 519 (Page No: 660),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CCC3(CC3)C2)cc(C2CC2)n1)=O
+567,Example 592a (S) (Page No: 711),WO2019148005,<100,C[C@@H](c1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1)N1CCC2(CC2)C1
+568,Example 592b (R) (Page No: 711),WO2019148005,<100,C[C@H](c1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1)N1CCC2(CC2)C1
+569,Example 506 (Page No: 650),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(Cn2ccnn2)nc(C2CC2)n1)=O
+570,Example 205 (trans) (Page No: 444),WO2019148005,<100,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)O[C@H]1CC[C@@H](C1)O)=O
+571,Example 207 (Stereo) (Page No: 445),WO2019148005,301-1000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)O[C@H]1CC[C@H](C1)O)=O
+572,Example 206 (Stereo) (Page No: 445),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)O[C@H]1CC[C@H](C1)O)=O
+573,Example 502 (Page No: 647),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(cc(C2CC2)n1)OC(F)F)=O
+574,Example 224 (Stereo) (Page No: 458),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@H](C[C@H]1C)O)=O)=O
+575,Example 223 (Stereo) (Page No: 457),WO2019148005,3001-10000,C[C@H]1C[C@@H](CN1C(c1ccnc(c1)C(Nc1cccc(c1)[C@H](C)Cc1nncn1C)=O)=O)O
+576,Example 251 (Stereo) (Page No: 467),WO2019148005,301-1000,CCn1cnnc1C[C@@H](C)c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@H](C[C@H]1C)O)=O)=O
+577,Example 222 (Stereo) (Page No: 457),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@](C)(C1)O)=O)=O
+578,Example 221 (Stereo) (Page No: 455),WO2019148005,301-1000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C2CC2)n1)C(N1CC[C@@H](C1)O)=O)=O
+579,Example 239 (R) (Page No: 463),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC(C(C)(C)C1)O)=O)=O
+580,Example 231 (R) (Page No: 460),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CCC(C1(C)C)O)=O)=O
+581,Example 232 (R) (Page No: 461),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC(C1)CO)=O)=O
+582,Example 241 (R) (Page No: 464),WO2019148005,3001-10000,CC(C1CN(C1)C(c1ccnc(c1)C(Nc1cccc(c1)[C@H](C)Cc1nncn1C)=O)=O)O
+583,Example 245 (R) (Page No: 465),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CCC(C1)CO)=O)=O
+584,Example 227 (R) (Page No: 459),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CCC(C)(CC1)O)=O)=O
+585,Example 240 (Stereo) (Page No: 463),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@@H]([C@H](C1)F)O)=O)=O
+586,Example 235 (Stereo) (Page No: 462),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@@H]([C@H](C1)F)O)=O)=O
+587,Example 246 (Stereo) (Page No: 466),WO2019148005,1001-3000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@@H]([C@@H](C1)O)F)=O)=O
+588,Example 243 (R) (Page No: 465),WO2019148005,301-1000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC(C(C1)(F)F)O)=O)=O
+589,Example 220 (Stereo) (Page No: 454),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C(N1CC[C@@H](C1)O)=O)=O
+590,Example 475 (S) (Page No: 623),WO2019148005,<100,CC(C)(Cc1nncn1C)c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C(N1CC[C@@H](C1)O)=O)=O
+591,Example 229 (Stereo) (Page No: 460),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@](C)(C1)N)=O)=O
+592,Example 230 (Stereo) (Page No: 460),WO2019148005,3001-10000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@](C)(C1)N)=O)=O
+593,Example 250 (Stereo) (Page No: 467),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)NC)=O)=O
+594,Example 249 (Stereo) (Page No: 467),WO2019148005,1001-3000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)NC)=O)=O
+595,Example 242 (R) (Page No: 464),WO2019148005,3001-10000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CCNCC1)=O)=O
+596,Example 236 (Stereo) (Page No: 462),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)C#N)=O)=O
+597,Example 238 (Stereo) (Page No: 463),WO2019148005,1001-3000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)C#N)=O)=O
+598,Example 225 (R) (Page No: 458),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC(C1)S(C)(=O)=O)=O)=O
+599,Example 208 (cis) (Page No: 446),WO2019148005,301-1000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)N[C@@H]1CC[C@@H](C1)O)=O
+600,Example 204 (Stereo) (Page No: 444),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)N[C@@H]1CC[C@@H](C1)O)=O
+601,Example 248 (Stereo) (Page No: 466),WO2019148005,3001-10000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N[C@H]1CCNC1)=O)=O
+602,Example 247 (Stereo) (Page No: 466),WO2019148005,3001-10000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N[C@H]1CCNC1)=O)=O
+603,Example 244 (R) (Page No: 465),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(NCCNC)=O)=O
+604,Example 226 (R) (Page No: 459),WO2019148005,3001-10000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(NCC(C)(C)O)=O)=O
+605,Example 228 (R) (Page No: 459),WO2019148005,3001-10000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(NC1CCOC1)=O)=O
+606,Example 254 (Stereo) (Page No: 470),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccc1F)C(N1CC[C@@H](C1)O)=O)=O
+607,Example 233 (R) (Page No: 461),WO2019148005,3001-10000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CCC2(C1)COC2)=O)=O
+608,Example 237 (R) (Page No: 462),WO2019148005,3001-10000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CCC2(CCO2)C1)=O)=O
+609,"Compound 38 (Page No: 57, Table No: 1)",WO 2021/021761 A1,>5000,Cc1cccc(NC(c2cccc(c2)C2(Cc3nncn3C)COC2)=O)n1
+610,"Compound 37 (Page No: 57, Table No: 1)",WO 2021/021761 A1,>5000,Cn1cnnc1CC1(COC1)c1cccc(c1)C(Nc1cccc(C2CC2)n1)=O
+611,Example 498 (Stereo) (Page No: 644),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2C[C@H]3C[C@H]3C2)cc(C2CC2)n1)=O
+612,Example 499 (Stereo) (Page No: 645),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2C[C@@H]3[C@H](C2)C3(F)F)cc(C2CC2)n1)=O
+613,Example 234 (Stereo) (Page No: 461),WO2019148005,1001-3000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@H]2C([C@H]2C1)O)=O)=O
+614,Example 497 (+/-) (Page No: 643),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CCC3CC23)cc(C2CC2)n1)=O
+615,Example 212 (R) (Page No: 449),WO2019148005,301-1000,Cc1ccc(C(Nc2cccc(c2)[C@H](C)Cc2nc[nH]n2)=O)nc1C1CC1
+616,Example 469 (R) (Page No: 614),WO2019148005,101-300,CCOc1cc(cc(NC(c2cc(C)nc(C3CC3)n2)=O)n1)[C@](C)(C(c1nncn1C)(F)F)F
+617,Example 512 (Stereo) (Page No: 652),WO2019148005,<100,C[C@@](c1cccc(c1)NC(c1cc(CN2CC[C@@H](C2)F)nc(C2CC2)n1)=O)(C(c1nncn1C)(F)F)F
+618,Example 348 (Page No: 537),WO2019148005,<100,CN1CCN(CC1)c1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1
+619,Example 610 (Page No: 721),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(nc(C2CC2)n1)N1CC(C1)C(F)F)=O
+620,Example 572 (+/-) (Page No: 698),WO2019148005,<100,CN1CC2CC(C1)N2c1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1
+621,Example 573 (+/-) (Page No: 699),WO2019148005,<100,CN1CC2CCC(C1)N2c1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)nc(C2CC2)n1
+622,Example 522 (Page No: 662),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)c2c(cnn2C)c2nncn2C)=O)nc(C2CC2)n1
+623,Example 334 (R) (Page No: 528),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)[C@H](C)Cc2nncs2)=O)nc(C2CC2)n1
+624,Example 510 (Page No: 652),WO2019148005,<100,Cc1c[nH]nc1CC1(COC1)c1cccc(c1)NC(c1cc(C)nc(C2CC2)n1)=O
+625,Example 331a (R) (Page No: 526),WO2019148005,301-1000,Cc1ccc(C(Nc2cccc(c2)[C@H](C)Cc2nccn2C)=O)nc1C1CC1
+626,Example 331b (S) (Page No: 526),WO2019148005,301-1000,Cc1ccc(C(Nc2cccc(c2)[C@@H](C)Cc2nccn2C)=O)nc1C1CC1
+627,Example 214 (+/-) (Page No: 450),WO2019148005,1001-3000,CC(Cc1nccn1C)c1cccc(c1)NC(c1ccc(C)c(C2CC2)n1)=O
+628,Example 252a (Stereo) (Page No: 469),WO2019148005,1001-3000,C[C@H](Cc1nccn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)O)=O)=O
+629,Example 252 (S) (Page No: 469),WO2019148005,3001-10000,CC(Cc1nccn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)O)=O)=O
+630,Example 253 (Stereo) (Page No: 469),WO2019148005,3001-10000,C[C@H](Cc1nccn1C)c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@H](C[C@H]1C)O)=O)=O
+631,Example 472 (R) (Page No: 620),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc2cc(ccc2cn1)N1CCNCC1)=O
+632,Example 209 (R) (Page No: 447),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc2cc(ccc2cn1)N1CCN(C)C(C1)=O)=O
+633,Example 210 (S) (Page No: 448),WO2019148005,3001-10000,C[C@@H](Cc1nncn1C)c1cccc(c1)NC(c1cc2cc(ccc2cn1)N1CCN(C)C(C1)=O)=O
+634,Example 211 (R) (Page No: 448),WO2019148005,<100,CC(N1CCN(CC1)c1ccc2cnc(cc2c1)C(Nc1cccc(c1)[C@H](C)Cc1nncn1C)=O)=O
+635,Example 182 (R) (Page No: 432),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc2ccccc2cn1)=O
+636,Example 314 (R) (Page No: 518),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc(C(F)(F)F)n[nH]1)=O
+637,Example 197 (R) (Page No: 439),WO2019148005,1001-3000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ccn(C)n1)=O
+638,Example 494 (Page No: 641),WO2019148005,101-300,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1csc(C2CC2)n1)=O
+639,Example 492 (Page No: 640),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1csc(C(F)(F)F)n1)=O
+640,Example 493 (Page No: 641),WO2019148005,301-1000,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1nc(cs1)C1CC1)=O
+641,Example 495 (Page No: 641),WO2019148005,301-1000,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1nc(cs1)C(F)(F)F)=O
+642,Example 315 (R) (Page No: 518),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1coc(C(F)(F)F)n1)=O
+643,Example 317 (R) (Page No: 519),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cc2cccn2cn1)=O
+644,Example 328 (R) (Page No: 525),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ccnc2ccnn12)=O
+645,Example 329 (R) (Page No: 526),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)[C@H](C)Cc2nncn2C)=O)nc2ccnn12
+646,Example 316 (R) (Page No: 518),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ccn2c(ccn2)n1)=O
+647,Example 605 (Page No: 718),WO2019148005,101-300,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1ccnc2ccnn12)=O
+648,Example 596 (Page No: 715),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)n2c(ccn2)n1
+649,Example 597 (Page No: 715),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)n2c(cc(C)n2)n1
+650,Example 606 (Page No: 719),WO2019148005,<100,Cc1cnn2c(cc(C)nc12)C(Nc1cccc(c1)C1(Cc2nncn2C)COC1)=O
+651,Example 604 (Page No: 718),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1cc(C2CC2)nc2ccnn12)=O
+652,Example 598 (Page No: 715),WO2019148005,101-300,Cc1cc(C(Nc2cccc(c2)C2(Cc3nncn3C)COC2)=O)n2c(cc(C(F)(F)F)n2)n1
+653,Example 599 (Page No: 716),WO2019148005,301-1000,Cc1cnn2c(cc(C(F)(F)F)nc12)C(Nc1cccc(c1)C1(Cc2nncn2C)COC1)=O
+654,Example 324 (R) (Page No: 524),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cnn2cccnc12)=O
+655,Example 318 (R) (Page No: 519),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1cn2ccnc2cn1)=O
+656,Example 326 (R) (Page No: 524),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1ncc(C(F)(F)F)[nH]1)=O
+657,Example 319 (R) (Page No: 519),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1nc2cccc(C3CC3)c2[nH]1)=O
+658,Example 196 (R) (Page No: 439),WO2019148005,<100,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1nc2cccc(c2[nH]1)C(F)(F)F)=O
+659,Example 332 (Stereo) (Page No: 527),WO2019148005,101-300,Cn1cnnc1[C@@H]1C[C@@H]1c1cccc(c1)NC(c1nc2cccc(c2[nH]1)C(F)(F)F)=O
+660,Example 335 (Page No: 528),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1nc2cccc(c2[nH]1)C(F)(F)F)=O
+661,Example 345 (R) (Page No: 534),WO2019148005,101-300,C[C@@](c1cccc(c1)NC(c1nc2cccc(c2[nH]1)C(F)(F)F)=O)(C(c1nncn1C)(F)F)F
+662,Example 213a (R) (Page No: 449),WO2019148005,101-300,Cc1conc1C[C@@H](C)c1cccc(c1)NC(c1ccnc(C(F)(F)F)n1)=O
+663,Example 213b (S) (Page No: 449),WO2019148005,3001-10000,Cc1conc1C[C@H](C)c1cccc(c1)NC(c1ccnc(C(F)(F)F)n1)=O
+664,Example 330 (R) (Page No: 526),WO2019148005,<100,Cc1conc1C[C@@H](C)c1cccc(c1)NC(c1cc(C)nc(C2CC2)n1)=O
+665,Example 509 (Page No: 651),WO2019148005,<100,Cc1conc1CC1(COC1)c1cccc(c1)NC(c1cc(C)nc(C2CC2)n1)=O
+666,Example 507 (S) (Page No: 650),WO2019148005,<100,Cc1conc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CC[C@@H](C2)O)nc(C2CC2)n1)=O
+667,Example 500 (Page No: 645),WO2019148005,<100,Cc1conc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CCC3(CC3)C2)cc(C2CC2)n1)=O
+668,Example 508 (Page No: 651),WO2019148005,<100,Cc1conc1CC1(COC1)c1cccc(c1)NC(c1cc(CN2CCC3(CC3)C2)nc(C2CC2)n1)=O
+669,"Compound 20 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCC(C1)(C(NC)=O)C(F)(F)F)=O
+670,"Compound 12 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,>5000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCC(C)(C1)C(NC)=O)=O
+671,"Compound 15 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCC(C1)(C(O)=O)C(F)(F)F)=O
+672,"Compound 11 (R) (Page No: 56, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1CCC(C1)(C(=O)OC)C(F)(F)F)=O
+673,"Compound 17 (Stereo) (Page No: 56, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(N1C[C@H](C)[C@H](C1)CO)=O
+674,"Compound 32 (Page No: 57, Table No: 1)",WO 2021/021761 A1,1001-5000,Cn1cnnc1CC1(COC1)c1cccc(c1)N1CC2C(CCN2C1=O)C(F)(F)F
+675,Example 313 (R) (Page No: 517),WO2019148005,101-300,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1c2CCCc2[nH]n1)=O
+676,Example 323 (R) (Page No: 523),WO2019148005,101-300,CC1CCc2c1n[nH]c2C(Nc1cccc(c1)[C@H](C)Cc1nncn1C)=O
+677,Example 327 (R) (Page No: 525),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1cccc(c1)NC(c1c2CCCCc2n[nH]1)=O
+678,Example 343 (Page No: 533),WO2019148005,<100,Cn1cnnc1CC1(COC1)c1cccc(c1)NC(c1c2c(CCCO2)n[nH]1)=O
+679,Example 312a (S) (Page No: 516),WO2019148005,101-300,Cc1cnnn1C[C@@H](C)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+680,Example 218 (+/-) (Page No: 453),WO2019148005,301-1000,CC(Cn1c(C)cnn1)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+681,Example 312b (R) (Page No: 516),WO2019148005,1001-3000,Cc1cnnn1C[C@H](C)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+682,Example 215 (+/-) (Page No: 450),WO2019148005,301-1000,CC(Cn1c(C)ccn1)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+683,Example 216 (+/-) (Page No: 450),WO2019148005,3001-10000,CC(Cn1ccc(C)n1)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+684,Example 217 (+/-) (Page No: 451),WO2019148005,>10000,CC(Cn1c(C)nnn1)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+685,Example 219 (+/-) (Page No: 454),WO2019148005,3001-10000,CC(CN1C(N=CN1)=O)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+686,"Compound 45 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)NC(N1Cc2cccc(c2C1)O)=O)Sc1nncn1C
+687,"Compound 145 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1Cc2c(C1)nccn2)=O)Sc1nncn1C
+688,"Compound 46 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)NC(N1Cc2cnn(C)c2C1)=O)Sc1nncn1C
+689,"Compound 125 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCc2c(C1)con2)=O)Sc1nncn1C
+690,"Compound 44 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCn2c(C1)ccn2)=O)Sc1nncn1C
+691,"Compound 39 (S) (Page No: 57, Table No: 1)",WO 2021/021761 A1,1001-5000,Cc1cc(NC(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)nnc1
+692,"Compound 129 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(NC1CCCN(C1)c1cccnn1)=O)Sc1nncn1C
+693,"Compound 152 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,CCn1cc(CN(C)C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)cn1
+694,"Compound 53 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC(c2cnn(C)c2)C(C)(C)C1)=O)Sc1nncn1C
+695,"Compound 40 (S) (Page No: 57, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)NC(N1CC2CCCC2C1)=O)Sc1nncn1C
+696,"Compound 133 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC2(CCC2O)C1)=O)Sc1nncn1C
+697,"Compound 138 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC2(CCCO2)C1)=O)Sc1nncn1C
+698,"Compound 48 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCOC2(CC2)C1)=O)Sc1nncn1C
+699,"Compound 43 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCOC2(CCC2)C1)=O)Sc1nncn1C
+700,"Compound 50 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)NC(N1CCC(C1)(C(NC)=O)C(F)(F)F)=O)Sc1nncn1C
+701,"Compound 153 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC(C1)C(N1CCC(C1)O)=O)=O)Sc1nncn1C
+702,"Compound 140 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC(C1)C(N1CCC(CC1)O)=O)=O)Sc1nncn1C
+703,"Compound 151 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCCC1)=O)Sc1nncn1C
+704,"Compound 41 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,CC1CCN(C1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+705,"Compound 124 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCCCC1)=O)Sc1nncn1C
+706,"Compound 49 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N(C)C1CCC1)=O)Sc1nncn1C
+707,"Compound 54 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,CC1CN(CC1CO)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+708,"Compound 47 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCC(C1)C(F)F)=O)Sc1nncn1C
+709,"Compound 142 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCC1c1ccccc1)=O)Sc1nncn1C
+710,"Compound 127 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCC(C1)c1ccccc1)=O)Sc1nncn1C
+711,"Compound 132 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC(C)(C1)F)=O)Sc1nncn1C
+712,"Compound 155 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCN(C)CC1)=O)Sc1nncn1C
+713,"Compound 162 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,CC(N1CCN(CC1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O)=O
+714,"Compound 123 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,CC1CN(CC(N1C)=O)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+715,"Compound 156 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCN(C2CC2)C(C1)=O)=O)Sc1nncn1C
+716,"Compound 143 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,CC(CO)N(C)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+717,"Compound 128 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCOCC1)=O)Sc1nncn1C
+718,"Compound 42 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,CC1CN(CC(C)O1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+719,"Compound 51 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,CC(C)C1CN(CCO1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+720,"Compound 146 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCOCC1CO)=O)Sc1nncn1C
+721,"Compound 131 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCOC(CC(F)(F)F)C1)=O)Sc1nncn1C
+722,"Compound 136 (Stereo) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@H](c1cccc(c1)NC(N1CCO[C@@H](C1)[C@@H]1CCCO1)=O)Sc1nncn1C
+723,"Compound 135 (Stereo) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCO[C@@H](C1)[C@H]1CCCO1)=O)Sc1nncn1C
+724,"Compound 52 (S) (Page No: 52, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC(C1)OC(F)(F)F)=O)Sc1nncn1C
+725,"Compound 165 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCS(CC1)(=O)=O)=O)Sc1nncn1C
+726,"Compound 134 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC(C1)S(C)(=O)=O)=O)Sc1nncn1C
+727,"Compound 157 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCC(C1)c1ccccn1)=O)Sc1nncn1C
+728,"Compound 149 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCN(CC1)c1cccnc1)=O)Sc1nncn1C
+729,"Compound 6 (S) (Page No: 56, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(Nc1ccccc1)=O)Sc1nncn1C
+730,"Compound 150 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(Nc1ccc(CC(N(C)C)=O)cc1)=O)Sc1nncn1C
+731,"Compound 161 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(NC1CCCCC1)=O)Sc1nncn1C
+732,"Compound 159 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(NC1CCCN(C)C1)=O)Sc1nncn1C
+733,"Compound 139 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCC2(CC(NC2)=O)C1)=O)Sc1nncn1C
+734,"Compound 160 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,CC(N1CCC2(CCN(CC2)C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)C1)=O
+735,"Compound 126 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCC12CCN(C)CC2)=O)Sc1nncn1C
+736,"Compound 147 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(Nc1ccc(cc1)N1CCOCC1=O)=O)Sc1nncn1C
+737,"Compound 148 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(Nc1ccc(cc1OC)N1CCOCC1)=O)Sc1nncn1C
+738,"Compound 130 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCC12CCOC2)=O)Sc1nncn1C
+739,"Compound 141 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CC2(CCOC(N2)=O)C1)=O)Sc1nncn1C
+740,"Compound 163 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(Nc1ccc(cc1)S(NC)(=O)=O)=O)Sc1nncn1C
+741,"Compound 158 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(Nc1ccc(cc1)S(N(C)C)(=O)=O)=O)Sc1nncn1C
+742,"Compound 144 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,Cc1ccc(cc1S(NC)(=O)=O)NC(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+743,"Compound 154 (S) (Page No: 60, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCOC(C1)c1ncon1)=O)Sc1nncn1C
+744,"Compound 7 (S) (Page No: 56, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCc2ccccc12)=O)Sc1nncn1C
+745,"Compound 8 (S) (Page No: 56, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(N1CCCc2ccccc12)=O)Sc1nncn1C
+746,"Compound 3 (S) (Page No: 56, Table No: 1)",WO 2021/021761 A1,101-1000,C[C@@H](c1cccc(c1)NC(Nc1cccc(C(F)(F)F)n1)=O)Sc1nncn1C
+747,"Compound 121 (S) (Page No: 58, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1ccnc(c1)NC(Nc1ccccn1)=O)Sc1nncn1C
+748,"Compound 4 (S) (Page No: 56, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)NC(Nc1cccc(n1)OC)=O)Sc1nncn1C
+749,"Compound 36 (S) (Page No: 57, Table No: 1)",WO 2021/021761 A1,1001-5000,C[C@@H](c1cccc(c1)C(Nc1cc(ccn1)C(F)(F)F)=O)Sc1nncn1C
+750,Example 116 (S) (Page No: 404),WO2019148005,3001-10000,C[C@@H](c1ccnc(c1)NC(c1cccc(c1)S(F)(F)(F)(F)F)=O)Sc1nncn1C
+751,Example 39 (S) (Page No: 370),WO2019148005,101-300,Cc1c(ccc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)n1)[Cl]
+752,Example 34 (S) (Page No: 369),WO2019148005,301-1000,Cc1cc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)ncc1[Cl]
+753,Example 55 (S) (Page No: 376),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc(c(cn1)[Cl])C(C)(C)O)=O)Sc1nncn1C
+754,Example 33 (S) (Page No: 368),WO2019148005,101-300,CC(C)c1cccc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)n1
+755,Example 56 (S) (Page No: 376),WO2019148005,301-1000,Cc1cc(C)nc(c1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+756,Example 35 (S) (Page No: 369),WO2019148005,301-1000,Cc1ccc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)nc1C
+757,Example 60 (S) (Page No: 379),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)NC)=O)Sc1nncn1C
+758,Example 59 (S) (Page No: 378),WO2019148005,1001-3000,CC(Nc1ccnc(c1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O)=O
+759,Example 46 (S) (Page No: 373),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(CCO)ccn1)=O)Sc1nncn1C
+760,Example 57a (S) (Page No: 377),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O)Sc1nncn1C
+761,Example 57b (R) (Page No: 377),WO2019148005,1001-3000,C[C@H](c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O)Sc1nncn1C
+762,Example 65 (S) (Page No: 381),WO2019148005,<100,Cc1cc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)nc(c1)C(F)(F)F
+763,Example 87 (S) (Page No: 391),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cccc(CF)n1)=O)Sc1nncn1C
+764,Example 81 (S) (Page No: 388),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cccc(C(C)(F)F)n1)=O)Sc1nncn1C
+765,Example 61 (S) (Page No: 379),WO2019148005,101-300,Cc1ccc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)nc1C(F)(F)F
+766,Example 85 (S) (Page No: 390),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C(C)(C)O)=O)Sc1nncn1C
+767,Example 64 (S) (Page No: 381),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C(F)(F)F)=O)Sc1nncn1C
+768,Example 95a (S) (Page No: 395),WO2019148005,301-1000,C[C@@H](c1ccc(c(c1)NC(c1cccc(C(F)(F)F)n1)=O)F)Sc1nncn1C
+769,Example 95 (+/-) (Page No: 394),WO2019148005,1001-3000,CC(c1ccc(c(c1)NC(c1cccc(C(F)(F)F)n1)=O)F)Sc1nncn1C
+770,Example 95b (R) (Page No: 395),WO2019148005,3001-10000,C[C@H](c1ccc(c(c1)NC(c1cccc(C(F)(F)F)n1)=O)F)Sc1nncn1C
+771,Example 32 (S) (Page No: 368),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(F)(F)F)=O)Sc1nncn1C
+772,Example 52 (S) (Page No: 375),WO2019148005,3001-10000,Cc1cnc(cc1C(F)(F)F)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+773,Example 51 (S) (Page No: 374),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1ccc(c(C(F)(F)F)n1)[Cl])=O)Sc1nncn1C
+774,Example 40 (S) (Page No: 371),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(c(cn1)[Cl])C(F)(F)F)=O)Sc1nncn1C
+775,Example 68 (S) (Page No: 383),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)[Cl])=O)Sc1nncn1C
+776,Example 49 (S) (Page No: 374),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1c(ccc(C(F)(F)F)n1)N)=O)Sc1nncn1C
+777,Example 181 (+/-) (Page No: 432),WO2019148005,1001-3000,Cn1cnnc1SC(CCO)c1cccc(c1)NC(c1cccc(C(F)(F)F)n1)=O
+778,Example 127 (+/-) (Page No: 408),WO2019148005,3001-10000,CC(c1cc(cnc1)NC(c1cccc(C(F)(F)F)n1)=O)Sc1nncn1C
+779,Example 71 (S) (Page No: 384),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)OC)=O)Sc1nncn1C
+780,Example 84 (S) (Page No: 389),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C1(COC1)O)=O)Sc1nncn1C
+781,Example 72 (S) (Page No: 385),WO2019148005,<100,C[C@@H](c1cccc(c1)NC(c1cccc(C2CC2)n1)=O)Sc1nncn1C
+782,Example 54 (S) (Page No: 375),WO2019148005,<100,Cc1ccc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)nc1C1CC1
+783,Example 53 (S) (Page No: 375),WO2019148005,3001-10000,Cc1cnc(cc1C1CC1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+784,Example 89 (S) (Page No: 392),WO2019148005,<100,C[C@@H](c1cccc(c1)NC(c1ccc(CO)c(C2CC2)n1)=O)Sc1nncn1C
+785,Example 92 (S) (Page No: 393),WO2019148005,<100,C[C@@H](c1cccc(c1)NC(c1ccc(C#N)c(C2CC2)n1)=O)Sc1nncn1C
+786,Example 91 (S) (Page No: 393),WO2019148005,<100,C[C@@H](c1cccc(c1)NC(c1ccc(c(C2CC2)n1)F)=O)Sc1nncn1C
+787,Example 67 (S) (Page No: 382),WO2019148005,<100,C[C@@H](c1cccc(c1)NC(c1cc(cc(C(F)(F)F)n1)C1CC1)=O)Sc1nncn1C
+788,Example 69 (S) (Page No: 383),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc(cc(C2CC2)n1)C(F)(F)F)=O)Sc1nncn1C
+789,Example 93 (S) (Page No: 394),WO2019148005,<100,C[C@@H](c1cccc(c1)NC(c1ccc(c(C2CC2)n1)OC)=O)Sc1nncn1C
+790,Example 110 (S) (Page No: 402),WO2019148005,301-1000,C[C@@H](c1ccnc(c1)NC(c1cccc(C(C)(F)F)n1)=O)Sc1nncn1C
+791,Example 103 (S) (Page No: 399),WO2019148005,301-1000,Cc1cc(C(Nc2cc(ccn2)[C@H](C)Sc2nncn2C)=O)nc(c1)C(F)(F)F
+792,Example 102b (S) (Page No: 399),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1cccc(C(F)(F)F)n1)=O)Sc1nncn1C
+793,Example 105 (S) (Page No: 400),WO2019148005,301-1000,C[C@@H](c1ccnc(c1)NC(c1cc(cc(C(F)(F)F)n1)[Cl])=O)Sc1nncn1C
+794,Example 119 (S) (Page No: 405),WO2019148005,301-1000,C[C@@H](c1ccnc(c1)NC(c1cc(cc(C(F)(F)F)n1)[Br])=O)Sc1nncn1C
+795,Example 106 (S) (Page No: 400),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1ccc(c(C(F)(F)F)n1)[Cl])=O)Sc1nncn1C
+796,Example 114 (S) (Page No: 403),WO2019148005,3001-10000,C[C@@H](c1ccnc(c1)NC(c1cc(c(cn1)[Cl])C(F)(F)F)=O)Sc1nncn1C
+797,Example 104 (S) (Page No: 400),WO2019148005,301-1000,C[C@@H](c1ccnc(c1)NC(c1cc(cc(C(F)(F)F)n1)C1CC1)=O)Sc1nncn1C
+798,Example 113 (S) (Page No: 403),WO2019148005,301-1000,Cc1ccc(C(Nc2cc(ccn2)[C@H](C)Sc2nncn2C)=O)nc1C1CC1
+799,Example 117 (S) (Page No: 404),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1cccc(C2CC2)n1)=O)Sc1nncn1C
+800,Example 123 (S) (Page No: 407),WO2019148005,1001-3000,CCc1cccc(C(Nc2cc(ccn2)[C@H](C)Sc2nncn2C)=O)n1
+801,Example 124 (S) (Page No: 407),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1cccc(n1)[Cl])=O)Sc1nncn1C
+802,Example 66 (S) (Page No: 382),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(cc(n1)[Cl])C(F)(F)F)=O)Sc1nncn1C
+803,Example 76 (S) (Page No: 386),WO2019148005,<100,C[C@@H](c1cccc(c1)NC(c1ccnc(C2CC2)n1)=O)Sc1nncn1C
+804,Example 75 (S) (Page No: 386),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1ccnc(C(F)(F)F)n1)=O)Sc1nncn1C
+805,Example 94 (+/-) (Page No: 394),WO2019148005,1001-3000,CC(c1ccc(c(c1)NC(c1cccc(C(F)(F)F)n1)=O)OC(F)(F)F)Sc1nncn1C
+806,Example 38 (S) (Page No: 370),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cccc(n1)OC)=O)Sc1nncn1C
+807,Example 90 (S) (Page No: 392),WO2019148005,1001-3000,CCOc1cccc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)n1
+808,Example 73 (S) (Page No: 385),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(cc(n1)OC)C(F)(F)F)=O)Sc1nncn1C
+809,Example 125 (S) (Page No: 407),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1ccc(c(n1)OC)[Cl])=O)Sc1nncn1C
+810,Example 122 (S) (Page No: 406),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1cccc(n1)OC(F)(F)F)=O)Sc1nncn1C
+811,Example 80 (S) (Page No: 388),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cccc(n1)S(C)(=O)=O)=O)Sc1nncn1C
+812,Example 70 (S) (Page No: 384),WO2019148005,101-300,Cc1c(C2CC2)nc(cn1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+813,Example 77 (S) (Page No: 387),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cncc(C(F)(F)F)n1)=O)Sc1nncn1C
+814,Example 82 (S) (Page No: 389),WO2019148005,1001-3000,Cc1cncc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)n1
+815,Example 140 (Stereo) (Page No: 413),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)O)=O)=O)Sc1nncn1C
+816,Example 139 (Stereo) (Page No: 413),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)O)=O)=O)Sc1nncn1C
+817,Example 161 (Stereo) (Page No: 421),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)O)=O)=O)Sc1nncn1C
+818,Example 155 (Stereo) (Page No: 419),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@@H]([C@H](C1)O)O)=O)=O)Sc1nncn1C
+819,Example 151 (Stereo) (Page No: 417),WO2019148005,301-1000,C[C@@H]1C[C@@H](CN1C(c1ccnc(c1)C(Nc1cccc(c1)[C@@H](C)Sc1nncn1C)=O)=O)O
+820,Example 153 (Stereo) (Page No: 418),WO2019148005,3001-10000,C[C@H]1C[C@@H](CN1C(c1ccnc(c1)C(Nc1cccc(c1)[C@@H](C)Sc1nncn1C)=O)=O)O
+821,Example 152 (Stereo) (Page No: 418),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1C[C@H](C[C@H]1C)O)=O)=O)Sc1nncn1C
+822,Example 154 (Stereo) (Page No: 418),WO2019148005,3001-10000,C[C@H]1C[C@@H](CN1C(c1ccnc(c1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O)=O)O
+823,Example 149 (Stereo) (Page No: 417),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CCC[C@@H](C1)O)=O)=O)Sc1nncn1C
+824,Example 150 (Stereo) (Page No: 417),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CCC[C@@H](C1)O)=O)=O)Sc1nncn1C
+825,Example 141 (Stereo) (Page No: 414),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)OC)=O)=O)Sc1nncn1C
+826,Example 148 (S) (Page No: 416),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC(C1)O)=O)=O)Sc1nncn1C
+827,Example 145 (S) (Page No: 415),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CCC(CC1)O)=O)=O)Sc1nncn1C
+828,Example 143 (S) (Page No: 415),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CCC1)=O)=O)Sc1nncn1C
+829,Example 138 (S) (Page No: 412),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CCCC1)=O)=O)Sc1nncn1C
+830,Example 144 (S) (Page No: 415),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CCCCC1)=O)=O)Sc1nncn1C
+831,Example 142 (Stereo) (Page No: 414),WO2019148005,>10000,C[C@H]1CCCN1C(c1ccnc(c1)C(Nc1cccc(c1)[C@@H](C)Sc1nncn1C)=O)=O
+832,Example 146 (Stereo) (Page No: 416),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)N)=O)=O)Sc1nncn1C
+833,Example 147 (Stereo) (Page No: 416),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)N)=O)=O)Sc1nncn1C
+834,Example 159 (Stereo) (Page No: 420),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)N(C)C)=O)=O)Sc1nncn1C
+835,Example 160 (Stereo) (Page No: 420),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CC[C@@H](C1)N(C)C)=O)=O)Sc1nncn1C
+836,Example 158 (Stereo) (Page No: 420),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(N1CCC(C1)S(C)(=O)=O)=O)=O)Sc1nncn1C
+837,Example 156 (Stereo) (Page No: 419),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)C(NC[C@@H](C)O)=O)=O)Sc1nncn1C
+838,Example 157 (Stereo) (Page No: 419),WO2019148005,3001-10000,C[C@@H](CNC(c1ccnc(c1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O)=O)O
+839,Example 126 (S) (Page No: 408),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1cc(cc(C(F)(F)F)n1)N1CC[C@@H](C1)O)=O)Sc1nncn1C
+840,Example 86 (S) (Page No: 391),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc(ccn1)NS(CCO)(=O)=O)=O)Sc1nncn1C
+841,Example 42 (S) (Page No: 371),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cccc(c1F)C(F)(F)F)=O)Sc1nncn1C
+842,Example 58 (S) (Page No: 377),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cccc(c1)N)=O)Sc1nncn1C
+843,Example 47 (S) (Page No: 373),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cccc(c1)NC)=O)Sc1nncn1C
+844,Example 26 (S) (Page No: 366),WO2019148005,>10000,C[C@@H](c1cccc(c1)NC(c1cccc(c1)N(C)C)=O)Sc1nncn1C
+845,Example 79 (S) (Page No: 388),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cccc(c1)OC(F)(F)F)=O)Sc1nncn1C
+846,Example 43 (S) (Page No: 372),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cccc(c1OC)C(F)(F)F)=O)Sc1nncn1C
+847,Example 44 (S) (Page No: 372),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cccc(c1)c1ccn[nH]1)=O)Sc1nncn1C
+848,Example 45 (S) (Page No: 372),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cccc(c1)c1ccnn1C)=O)Sc1nncn1C
+849,Example 50 (S) (Page No: 374),WO2019148005,3001-10000,CC1=CC(NC(=C1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O)=O
+850,"Compound 35 (S) (Page No: 57, Table No: 1)",WO 2021/021761 A1,>5000,C[C@@H](c1cccc(c1)C(Nc1ccc2ccccc2n1)=O)Sc1nncn1C
+851,Example 112 (S) (Page No: 402),WO2019148005,301-1000,C[C@@H](c1ccnc(c1)NC(c1ccc2ccccc2n1)=O)Sc1nncn1C
+852,Example 107 (S) (Page No: 401),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1ccc2cccc(c2n1)F)=O)Sc1nncn1C
+853,Example 9 (+/-) (Page No: 360),WO2019148005,301-1000,CC(c1cccc(c1)NC(c1ccc2ccccc2n1)=O)Sc1nncn1C
+854,Example 9a (S) (Page No: 360),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1ccc2ccccc2n1)=O)Sc1nncn1C
+855,Example 30 (S) (Page No: 367),WO2019148005,301-1000,Cc1cc(C(Nc2cccc(c2)[C@H](C)Sc2nncn2C)=O)nc2ccccc12
+856,Example 48 (S) (Page No: 373),WO2019148005,301-1000,Cc1cccc2c1ccc(C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O)n2
+857,Example 134 (+/-) (Page No: 411),WO2019148005,1001-3000,Cn1cnnc1SC(CC=C)c1cccc(c1)NC(c1ccc2ccccc2n1)=O
+858,Example 96a (S) (Page No: 395),WO2019148005,1001-3000,C[C@@H](c1ccc(c(c1)NC(c1ccc2ccccc2n1)=O)F)Sc1nncn1C
+859,Example 97 (+/-) (Page No: 396),WO2019148005,1001-3000,CC(c1ccc(c(c1)NC(c1ccc2ccccc2n1)=O)OC)Sc1nncn1C
+860,Example 83 (S) (Page No: 389),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc(c2ccccc2n1)C(F)(F)F)=O)Sc1nncn1C
+861,Example 111 (S) (Page No: 402),WO2019148005,3001-10000,C[C@@H](c1ccnc(c1)NC(c1cc(c2ccccc2n1)C(F)(F)F)=O)Sc1nncn1C
+862,Example 108 (S) (Page No: 401),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1ccc2CCCCc2n1)=O)Sc1nncn1C
+863,Example 23 (+/-) (Page No: 365),WO2019148005,1001-3000,CC(c1cccc(c1)NC(c1ccc2CCCCc2n1)=O)Sc1nncn1C
+864,Example 310 (S) (Page No: 515),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1ccc2c(cccc2n1)OCC(NC)=O)=O)Sc1nncn1C
+865,Example 309 (S) (Page No: 515),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1ccc2c(cccc2n1)OCC(O)=O)=O)Sc1nncn1C
+866,Example 131 (+/-) (Page No: 410),WO2019148005,3001-10000,CC(c1cc2c(CCC2(C)O)c(c1)NC(c1ccc2ccccc2n1)=O)Sc1nncn1C
+867,Example 78 (S) (Page No: 387),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc2c(cccc2[nH]1)[Cl])=O)Sc1nncn1C
+868,Example 120 (S) (Page No: 405),WO2019148005,101-300,C[C@@H](c1ccnc(c1)NC(c1cc2c(cccc2[nH]1)C(F)(F)F)=O)Sc1nncn1C
+869,Example 62 (S) (Page No: 379),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc2ccccc2c(n1)OC)=O)Sc1nncn1C
+870,Example 8a (S) (Page No: 359),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc2ccccc2cn1)=O)Sc1nncn1C
+871,Example 8 (+/-) (Page No: 359),WO2019148005,1001-3000,CC(c1cccc(c1)NC(c1cc2ccccc2cn1)=O)Sc1nncn1C
+872,Example 8b (R) (Page No: 360),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc2ccccc2cn1)=O)Sc1nncn1C
+873,Example 135 (+/-) (Page No: 411),WO2019148005,1001-3000,Cn1cnnc1SC(CC=C)c1cccc(c1)NC(c1cc2ccccc2cn1)=O
+874,Example 63 (S) (Page No: 380),WO2019148005,3001-10000,C[C@@H](c1cccc(c1)NC(c1cc2ccccc2c(C(F)(F)F)n1)=O)Sc1nncn1C
+875,Example 99 (S) (Page No: 397),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc2ccccc2cn1)=O)Sc1nncn1C1CC1
+876,Example 109 (S) (Page No: 401),WO2019148005,3001-10000,C[C@@H](c1ccnc(c1)NC(c1cc2CCCCc2cn1)=O)Sc1nncn1C
+877,Example 98 (S) (Page No: 396),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc2ccccc2cn1)=O)Sc1nc[nH]n1
+878,Example 306a (S) (Page No: 513),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc2cc(ccc2cn1)OCC(NC)=O)=O)Sc1nncn1C
+879,Example 306b (R) (Page No: 513),WO2019148005,3001-10000,C[C@H](c1cccc(c1)NC(c1cc2cc(ccc2cn1)OCC(NC)=O)=O)Sc1nncn1C
+880,Example 311 (S) (Page No: 516),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc2cc(ccc2cn1)OCC(NCCN)=O)=O)Sc1nncn1C
+881,Example 305 (S) (Page No: 511),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1cc2cc(ccc2cn1)OCC(O)=O)=O)Sc1nncn1C
+882,Example 308 (S) (Page No: 515),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cc2ccc(cc2cn1)OCC(O)=O)=O)Sc1nncn1C
+883,Example 307 (S) (Page No: 514),WO2019148005,101-300,C[C@@H](c1cccc(c1)NC(c1cc2cc(ccc2cn1)OCc1ccn[nH]1)=O)Sc1nncn1C
+884,Example 74 (S) (Page No: 386),WO2019148005,301-1000,C[C@@H](c1cccc(c1)NC(c1nc(cs1)C(F)(F)F)=O)Sc1nncn1C
+885,Example 41 (S) (Page No: 371),WO2019148005,1001-3000,Cc1nc(cs1)C(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O
+886,Example 118 (S) (Page No: 404),WO2019148005,1001-3000,C[C@@H](c1ccnc(c1)NC(c1csc(C(F)(F)F)n1)=O)Sc1nncn1C
+887,Example 115 (S) (Page No: 403),WO2019148005,3001-10000,C[C@@H](c1ccnc(c1)NC(c1c2ccccc2on1)=O)Sc1nncn1C
+888,Example 130a (S) (Page No: 409),WO2019148005,301-1000,Cc1nc2cc(cc(c2o1)NC(c1cccc(C(F)(F)F)n1)=O)[C@H](C)Sc1nncn1C
+889,Example 88 (S) (Page No: 391),WO2019148005,1001-3000,C[C@@H](c1cccc(c1)NC(c1cccc2c1ncs2)=O)Sc1nncn1C
+890,Example 121 (S) (Page No: 406),WO2019148005,3001-10000,C[C@@H](c1ccnc(c1)NC(c1nc2ccccc2s1)=O)Sc1nncn1C
+891,Example 303 (R) (Page No: 510),WO2019148005,301-1000,C[C@H](Cc1nncn1C)c1ccnc(c1)NC(c1ccc2ccccc2n1)=O
+892,Example 128a (S) (Page No: 408),WO2019148005,1001-3000,Cc1c[nH]nc1S[C@@H](C)c1ccnc(c1)NC(c1ccc2ccccc2n1)=O
+893,Example 129 (+/-) (Page No: 409),WO2019148005,>10000,CC(c1ccnc(c1)NC(c1ccc2ccccc2n1)=O)Sc1nc(C)cn1C
+894,"Compound 137 (S) (Page No: 59, Table No: 1)",WO 2021/021761 A1,>5000,CCN1CCc2c(C1)sc(NC(Nc1cccc(c1)[C@H](C)Sc1nncn1C)=O)n2

@@ -1,3 +1,6 @@
 .DS_Store
 .idea/
 example_classifiers/.ipynb_checkpoints/
+*__pycache__*
+*ipynb_checkpoints/
+ligand_files/decoys/*

@@ -23,10 +23,6 @@ def canonise(df, path):
 def dupes_seen(df):
     
     dupe_rows = df.loc[df['Dupes'] == True]
-
-    dupe_rows.to_csv('duplicated_rows_inhibitors.csv')
-
-
     seen = {} 
     for i in dupe_rows['smiles']:
         if i in seen:

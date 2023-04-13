@@ -21,9 +21,7 @@ def dupes(dupes):
 
 def dupes_to_json(df):
     dupe_rows = df.loc[df['Dupes'] == True]
-
     dupe_rows.to_csv('duplicated_rows_inhibitors.csv')
-
 
     seen = {} 
     count = 0  

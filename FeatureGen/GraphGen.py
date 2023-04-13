@@ -82,14 +82,13 @@ def bondFeatures(mol):
 
 def GraphInfoGen(SMILES):
     #this function generates the relevent infomation to creater a pytorch Geometric
-    mol=MolGen(SMILES)
-    node_features=nodeFeatureList(mol)
-    bonds,bond_f=bondFeatures(mol)
-    node_features=torch.tensor(node_features,dtype=torch.float32)
-    bonds=torch.tensor(bonds,dtype=torch.int32)
-    bond_f=torch.tensor(bond_f,dtype=torch.float32)
-    
-    return node_features,bonds,bond_f
+    try:
+        mol=MolGen(SMILES)
+        node_features=nodeFeatureList(mol)
+        bonds,bond_f=bondFeatures(mol)
+        return node_features,bonds,bond_f
+    except:
+        return None,None,None
 
 def GraphGen(SMILES,Target_Val):
     #This function generates a data object for pytorch Geometric 

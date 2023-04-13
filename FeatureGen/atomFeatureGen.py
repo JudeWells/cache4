@@ -8,6 +8,9 @@ from rdkit import Chem
 from rdkit.Chem import AllChem
 import numpy as np
 
+from morfeus import Sterimol, SASA, BuriedVolume, Dispersion, XTB, read_xyz, read_geometry
+
+
 def atomTypeOneHot(atom):
     AtomList=['H','C','N','O','S','Si','P','Cl','Br', 'F']
     oneHot=np.zeros(len(AtomList))
@@ -88,7 +91,9 @@ def atomIsChiral(atom):
     else:
         return 0
 
-def Atom_features(atom,):
+
+
+def Atom_features(atom):
     atomicFeatures=[]
     atomicFeatures.extend(atomTypeOneHot(atom))
     atomicFeatures.extend([atomMass(atom)])

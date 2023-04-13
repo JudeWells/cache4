@@ -47,8 +47,8 @@ print(len(dser))
 trainData,testData=random_split(dser,[trainSetSize,testSetSize])
 print(len(trainData)+len(testData))
 print(dser[30])
-print(dser.num_features)
-print(dser.num_edge_features)
+print(dser[30].num_features)
+print(dser[30].num_edge_features)
 
 # %%
 graph=dser[30]

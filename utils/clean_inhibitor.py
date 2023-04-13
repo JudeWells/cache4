@@ -7,6 +7,7 @@ df = pd.read_csv(path)
 dupes = df.duplicated(subset=['smiles']) 
 df['Dupes'] = pd.Series(dupes)
 
+# dupes_bool = df['Dupes'].tolist()
 
 # convert to canonised smiles
 def canonise(df, path):
@@ -16,26 +17,35 @@ def canonise(df, path):
     print(df.head())
     df.to_csv(path)
 
-def dupes(dupes):   
-    return sum(dupes)
+# def dupes(dupes):   
+#     return sum(dupes)
 
-def dupes_to_json(df):
+def dupes_seen(df):
+    
     dupe_rows = df.loc[df['Dupes'] == True]
-
-    dupe_rows.to_csv('duplicated_rows_inhibitors.csv')
-
-
     seen = {} 
-    count = 0  
     for i in dupe_rows['smiles']:
         if i in seen:
             seen[i] =  seen[i] + 1
             continue
         seen[i] = 2
-    print(seen)
-    with open('duplicated_row_counts.json', 'w') as fp:
-        json.dump(seen, fp, sort_keys=True, indent=4)
+    # print(seen.keys())
+    # with open('duplicated_row_counts.json', 'w') as fp:
+    #     json.dump(seen, fp, sort_keys=True, indent=4)
+    return seen
 
-dupes_to_json(df)    
+def dupes_to_csv(smiles):
+    seen_smi = dupes_seen(df).keys() 
+    # print(smiles)
+    if smiles in seen_smi:
+        return True
+    else:
+        return False
+
+df['Dupes'] = df['smiles'].apply(dupes_to_csv)
+duplicated = df.loc[df['Dupes'] == True]
+duplicated.to_csv('duplicated_rows.csv', index=False)
+     
+            
 
                 

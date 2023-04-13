@@ -1,2 +1,4 @@
 .DS_Store
 .idea/
+FeatureGen/__pycache__
+example_classifiers/.ipynb_checkpoints/

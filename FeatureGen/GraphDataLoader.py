@@ -38,29 +38,29 @@ class GraphDataset(Dataset):
     
 
 # %%
-dser=GraphDataset(ReactionFile='GraphDataSet.csv',PathToData='.')
+# dser=GraphDataset(ReactionFile='GraphDataSet.csv',PathToData='.')
 
-# %%
-trainSetSize=int(len(dser)*0.001)
-testSetSize=len(dser)-trainSetSize
-print(len(dser))
-trainData,testData=random_split(dser,[trainSetSize,testSetSize])
-print(len(trainData)+len(testData))
-print(dser[30])
-print(dser[30].num_features)
-print(dser[30].num_edge_features)
+# # %%
+# trainSetSize=int(len(dser)*0.001)
+# testSetSize=len(dser)-trainSetSize
+# print(len(dser))
+# trainData,testData=random_split(dser,[trainSetSize,testSetSize])
+# print(len(trainData)+len(testData))
+# print(dser[30])
+# print(dser[30].num_features)
+# print(dser[30].num_edge_features)
 
-# %%
-graph=dser[30]
-# %%
-vis = to_networkx(graph)
+# # %%
+# graph=dser[30]
+# # %%
+# vis = to_networkx(graph)
 
-# node_labels = graph.y.numpy()
-node_labels = graph.y
-import matplotlib.pyplot as plt
-plt.figure(1,figsize=(15,13)) 
-nx.draw(vis, cmap=plt.get_cmap('Set3'),node_size=70,linewidths=6)
+# # node_labels = graph.y.numpy()
+# node_labels = graph.y
+# import matplotlib.pyplot as plt
+# plt.figure(1,figsize=(15,13)) 
 # nx.draw(vis, cmap=plt.get_cmap('Set3'),node_size=70,linewidths=6)
-plt.show()
+# # nx.draw(vis, cmap=plt.get_cmap('Set3'),node_size=70,linewidths=6)
+# plt.show()
 
-# %%
+# # %%

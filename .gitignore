@@ -7,3 +7,4 @@ example_classifiers/.ipynb_checkpoints/
 ligand_files/decoys/*
 chemprop_model/
 ligand_files/chemprop_data.csv
+chemprop_model*

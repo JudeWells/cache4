@@ -3,11 +3,12 @@ import chemprop
 arguments = [
     '--data_path', 'ligand_files/chemprop_data.csv',
     '--dataset_type', 'classification',
-    '--save_dir', 'chemprop_model',
+    '--save_dir', 'chemprop_model4',
     '--split_type', 'scaffold_balanced',
     '--target_columns', 'target',
     '--class_balance',
-    '--ensemble_size', '8',
+    '--ensemble_size', '1',
+    '--extra_metrics', 'accuracy', 'f1', 'mcc'
 ]
 
 if __name__ == '__main__':

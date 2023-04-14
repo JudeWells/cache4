@@ -17,13 +17,13 @@ import networkx as nx
 class GraphDataset(Dataset):
     def __init__(self,ReactionFile=None,PathToData='',target='Yield',Temp=None,Pressure=None,Time=None,AtomFeatures=None,BondFeatures=None):
         self.DFSMILES=pd.read_csv(str(PathToData)+'/'+str(ReactionFile))
-        print(self.DFSMILES.info())
+        # print(self.DFSMILES.info())
     def __len__(self):
         return len(self.DFSMILES)
     def __getitem__(self,idx):
-        print(self.DFSMILES.loc[idx,'Target'])
+        # print(self.DFSMILES.loc[idx,'Target'])
         GraphList=eval(self.DFSMILES.loc[idx,'tempstor'])
-        print(len(GraphList))
+        # print(len(GraphList))
         combinedfeatures=torch.tensor(GraphList[0],dtype=torch.float32)
         bonds=torch.tensor(GraphList[1],dtype=torch.int64)
         bond_f=torch.tensor(GraphList[2],dtype=torch.float32)

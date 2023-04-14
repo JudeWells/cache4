@@ -25,7 +25,7 @@ device=torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 
 # %%
-dser=GraphDataset(ReactionFile='GraphDataSet.csv',PathToData='.')
+dser=GraphDataset(ReactionFile='GraphDataSet_additionalInfo.csv',PathToData='.')
 
 #%%
 trainSetSize=int(len(dser)*0.8)

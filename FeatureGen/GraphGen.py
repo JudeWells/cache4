@@ -7,15 +7,24 @@ This note book contains functions which will generate the graph from a smiles st
 # In[]
 import os, re
 
+import rdkit
 from rdkit import Chem
 from rdkit.Chem import AllChem
 from rdkit.Chem import Draw
 from rdkit.Chem.Draw import IPythonConsole
+
+from rdkit.Chem import Descriptors3D
+import rdkit.Chem.Descriptors
+import rdkit.ML.Descriptors.MoleculeDescriptors
+
+
 import numpy as np
 
 import torch
 import torch_geometric.data as data
 from torch_geometric.utils.convert import to_networkx
+
+from morfeus import Sterimol, SASA, BuriedVolume, Dispersion, XTB, read_xyz, read_geometry
 
 import networkx as nx
 
@@ -52,11 +61,40 @@ def MolGen(SMILES):
     mol=Chem.MolFromSmiles(SMILES)
     mol=Chem.AddHs(mol)
     AllChem.EmbedMolecule(mol)
-    # AllChem.MMFFOptimizeMolecule(mol)
+    AllChem.MMFFOptimizeMolecule(mol)
     AllChem.ComputeGasteigerCharges(mol)
     # end=time.time()-start
     # print(end)
+    
     return mol
+
+def MorganFeatures(mol):
+    Chem.rdmolfiles.MolToXYZFile(mol,'tempStruc.xyz')
+    elements,coordinates=read_xyz('tempStruc.xyz')
+    atoms=[i+1 for i in range(len(elements))]
+    atomFeatureList=[]
+    sasa=SASA(elements,coordinates).atom_areas
+    disp=Dispersion(elements,coordinates)
+    for idx,atom in enumerate([i+1 for i in range(len(elements))]):
+        pbv=BuriedVolume(elements,coordinates,atom,radius=3.5,include_hs=True,radii_type='bondi',radii_scale=1).fraction_buried_volume
+        Pint=disp.atom_p_int[atom]
+        atomsasa=sasa[atom]
+        atomFeatureList.append([pbv,Pint,atomsasa])
+    return atomFeatureList
+
+def AdditionalRDkitDescriptors(mol):
+    rdkit.Chem.rdPartialCharges.ComputeGasteigerCharges(mol)
+    
+    VSA = rdkit.Chem.MolSurf._LabuteHelper(mol)
+    Crippen = rdkit.Chem.Crippen._GetAtomContribs(mol)
+    SlogP=[i[0] for i in Crippen]
+    MR=[i[1] for i in Crippen]
+    EState = rdkit.Chem.EState.EStateIndices(mol)
+    PEOE = [float(atom.GetProp('_GasteigerCharge'))  for atom in mol.GetAtoms()]
+    atomFeatureList=[]
+    for atom in range(len(mol.GetAtoms())):
+        atomFeatureList.append([VSA[atom],SlogP[atom],MR[atom],EState[atom],PEOE[atom]])
+    return atomFeatureList 
 
 def nodeFeatureList(mol):
     #this takes as input a mol file and outputs a list of all of the nodes
@@ -80,15 +118,25 @@ def bondFeatures(mol):
     atomSourceDestList=[sourceAtomList,destAtomList]
     return atomSourceDestList,bondFeaturesList
 
-def GraphInfoGen(SMILES):
+def GraphInfoGen(SMILES,IncluedAdditonFeatures=False):
     #this function generates the relevent infomation to creater a pytorch Geometric
-    try:
-        mol=MolGen(SMILES)
-        node_features=nodeFeatureList(mol)
-        bonds,bond_f=bondFeatures(mol)
-        return node_features,bonds,bond_f
-    except:
-        return None,None,None
+    # try:
+    mol=MolGen(SMILES)
+    node_features=nodeFeatureList(mol)
+    print(len(node_features[1]))
+
+    if IncluedAdditonFeatures==True:
+        AdditionalFeatureList1=AdditionalRDkitDescriptors(mol)
+        AdditionalFeatureList2=MorganFeatures(mol)
+        for idx, atom_f in enumerate(node_features):
+            node_features[idx].extend(AdditionalFeatureList1)
+            node_features[idx].extend(AdditionalFeatureList2)
+
+    bonds,bond_f=bondFeatures(mol)
+    print(len(node_features[1]))
+    return node_features,bonds,bond_f
+    # except:
+    #     return None,None,None
 
 def GraphGen(SMILES,Target_Val):
     #This function generates a data object for pytorch Geometric 
@@ -102,15 +150,21 @@ def GraphGen(SMILES,Target_Val):
     return data.Data(x=node_features,edge_index=bonds,edge_attr=bond_f,y=Target_Val)
 
 # %%
-molTest=MolGen(testSMILES)
-molTest
+# molTest=MolGen(testSMILES)
+# molTest
+# GraphInfoGen(testSMILES,IncluedAdditonFeatures=True)
+# print(elements)
+# print(coordinates)
+
 # Chem.MolToXYZ(molTest)
 # testNodeList=nodeFeatureList(molTest)
 # testBonds,testBond_f=bondFeatures(molTest)
 # print(Chem.MolToMolBlock(molTest))
-# # %%
-# graph=GraphGen(testSMILES)
-# print(graph)
+# %%
+graph=GraphGen(testSMILES,3)
+print(graph)
+
+
 
 # # %%
 # vis = to_networkx(graph)
@@ -122,5 +176,6 @@ molTest
 # nx.draw(vis, cmap=plt.get_cmap('Set3'),node_size=70,linewidths=6)
 # # nx.draw(vis, cmap=plt.get_cmap('Set3'),node_size=70,linewidths=6)
 # plt.show()
-
+# # %%
+# molTest
 # %%

@@ -1,3 +1,11 @@
+"""
+Created by Alice Cheng 2023-04-13
+Functions for showing the number of duplicates and producing 
+a new json showing duplicated entries. Then produces a dataset 
+showing all molecules where the smiles entries has been seen more 
+than once.
+"""
+
 import pandas as pd
 from rdkit import Chem
 import json
@@ -23,6 +31,7 @@ def canonise(df, path):
 # def dupes(dupes):   
 #     return sum(dupes)
 
+# creates a dictionary of all duplicated entries.
 def dupes_seen(df):
     
     dupe_rows = df.loc[df['Dupes'] == True]
@@ -37,6 +46,7 @@ def dupes_seen(df):
     #     json.dump(seen, fp, sort_keys=True, indent=4)
     return seen
 
+# for a smile string, return true if it has been seen more than once
 def dupes_to_csv(smiles):
     seen_smi = dupes_seen(df).keys() 
     # print(smiles)
@@ -45,7 +55,10 @@ def dupes_to_csv(smiles):
     else:
         return False
 
+ # iteratively applies dupes_to_csv to all smiles string column values
 df['Dupes'] = df['smiles'].apply(dupes_to_csv)
+
+# only show smiles strings where it has been seen more than once in the dataset.
 duplicated = df.loc[df['Dupes'] == True]
 duplicated.to_csv('duplicated_rows.csv', index=False)
      

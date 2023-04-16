@@ -5,6 +5,7 @@ import json
 path = 'ligand_files/CBLB_inhibitors.csv'
 df = pd.read_csv(path)
 dupes = df.duplicated(subset=['smiles']) 
+# create new column to store the duplicates in the dataset.
 df['Dupes'] = pd.Series(dupes)
 
 # dupes_bool = df['Dupes'].tolist()
@@ -17,6 +18,8 @@ def canonise(df, path):
     print(df.head())
     df.to_csv(path)
 
+# returns the total number of entries that are duplicated, 
+# e.g. if CAS123 appears twice, there will be 1 dupeicated entry
 # def dupes(dupes):   
 #     return sum(dupes)
 

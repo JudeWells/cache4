@@ -23,20 +23,10 @@ df.head()
 # %%
 # df['smiles'].apply(GraphInfoGen)
 # %%
-df['tempstor']=df['smiles'].apply(GraphInfoGen)
+df['tempstor']=df['smiles'].apply(GraphInfoGen,True)
 df.info()
-# %%
-print(len(df['tempstor'][1]))
 
-
-# %%
-df['node features']=df['tempstor']
-# %%
-df['bonds']=df['tempstor'][1]
-df['bond features']=df['tempstor'][2]
-
-# %%
-df.to_csv('GraphDataSet.csv')
+df.to_csv('GraphDataSet_additionalInfo.csv')
 # %%
 df.info()
 # %%

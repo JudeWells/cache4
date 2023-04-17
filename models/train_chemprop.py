@@ -1,9 +1,9 @@
 import chemprop
 
 arguments = [
-    '--data_path', 'ligand_files/chemprop_data.csv',
+    '--data_path', 'ligand_files/chemprop_train.csv',
     '--dataset_type', 'classification',
-    '--save_dir', 'chemprop_model4',
+    '--save_dir', 'chemprop_model5',
     '--split_type', 'scaffold_balanced',
     '--target_columns', 'target',
     '--class_balance',

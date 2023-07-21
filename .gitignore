@@ -5,7 +5,7 @@ example_classifiers/.ipynb_checkpoints/
 *__pycache__*
 *ipynb_checkpoints/
 ligand_files/decoys/*
-chemprop_model/
+chemprop_classifier_model/chemprop_model/
 ligand_files/chemprop_data.csv
 FeatureGen/tempStruc.xyz
 chemprop_model*

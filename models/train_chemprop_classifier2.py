@@ -1,16 +1,16 @@
 import chemprop
 
 arguments = [
-    '--data_path', 'ligand_files/chemprop_train_v2.csv',
+    '--data_path', 'ligand_files/actives_decoys_drugbank_discodivers_ligands.csv',
     '--dataset_type', 'classification',
-    '--save_dir', 'chemprop_2024_aug_test_ens_5',
+    '--save_dir', 'chemprop_2024_aug_test_new_dataset',
     '--split_type', 'scaffold_balanced',
     '--target_columns', 'target',
     '--class_balance',
     '--ensemble_size', '1',
-    '--num_folds', '5',
+    '--num_folds', '3',
     '--extra_metrics', 'accuracy', 'f1', 'mcc',
-    '--split_sizes', '0.85', '0.15', '0.0',
+    '--split_sizes', '0.80', '0.1', '0.1',
     '--smiles_column', 'smiles',
 ]
 

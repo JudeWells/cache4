@@ -25,6 +25,8 @@ vina/
 infinisee/
 bad_apples/
 chemprop_2024_aug_test_ens_5/
+chemprop_2024_aug_test_new_dataset/
+models/chemprop_2024_aug_test_new_dataset/
 chemprop_new_classifier/
 chemprop_new_classifier_ens_2/
 glide_docked_900_ic50/

@@ -1,0 +1,149 @@
+Participant ID,rank,smiles,Enamine catalog ID,mol_weight,logP,PAINS passed [y/n],Method,MMGBSA,Wim Recc.,Jude Recc.,similar_to,similarity_scores,bad_apples
+1972,1,NC1CCCC11CCN(CC1)C1=CC=C(C=N1)C(=O)NC1=NN=CS1,Z3493571017,,,y,pubchem pharmit - closest match infinisee,-999,1.0,,,,No pScore
+1972,2,Cc1cc(C)cc(C(=O)Nc2cc(S(=O)(=O)N3CCCC3)ccc2OCC(F)(F)F)c1,Z28425221,456.486,4.28134,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,3,N#Cc1cccc(-c2c[nH]c(CNC(=O)C3CCC4CCCCC4C3)n2)c1,Z1549121910,362.477,4.17108,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,4,CN1CCCc2cc(CNC(=O)NC3N=C(c4ccccc4)NS3)ccc21,Z940677828,381.505,2.85,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,5,CC1(c2cccc(NC(=O)c3ccc4c(c3)OCO4)c2)NC(=O)NC1=O,Z424328864,353.334,1.7222,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,6,CC1(c2cccc(NC(=O)c3ccc(-n4cncn4)cc3)c2)NC(=O)NC1=O,Z424331798,376.376,1.5742,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,7,CC1(c2cccc(NC(=O)c3cncc(Br)c3)c2)NC(=O)NC1=O,Z424328848,389.209,2.151,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,8,CC1Oc2ccc(NC(=O)c3cc4c(s3)-c3ccccc3OC4)cc2NC1=O,Z110098782,392.436,4.2792,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,9,Cc1cc(C)n2ncc(-c3noc(C4CCOc5ccccc54)n3)c2n1,Z1170087494,347.378,3.31054,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,10,Cn1c(=O)c2ccc(C(=O)NCC(c3c(F)cccc3Cl)[NH+]3CCCC3)nc2n(C)c1=O,Z384410828,460.917,0.5745,y,vina + fingerprints,-999.0,1.0,,Z384410828,1.0,No pScore
+1972,11,Cc1ccc(-n2nnnc2SCC(=O)Nc2ccc3c(c2)OCCCO3)cc1C,Z66760382,411.487,3.17124,y,vina + fingerprints,-999.0,1.0,,,,No pScore
+1972,12,C[C@H](Sc1nncn1C)c1cccc(NC(=O)[C@]23CO[C@](C[NH3+])(C2)C3)c1,Z4194910272,373.48001,1.0030479,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,13,O=C(Nc1cccc(C[NH+]2CCCCC2)c1)c1cccc(Cn2ccnn2)c1,Z2621742679,375.47601,3.628351,y,wim pharmacophore,-999,1.0,,,,High pScore
+1972,14,C[C@@H]1CCC[N@H+](Cc2ccc(NC(=O)c3cccc(Cn4ccnn4)c3)cc2)C1,Z2622538469,389.50299,3.9933236,y,wim pharmacophore,-999,1.0,,,,High pScore
+1972,15,CC(C)(c1cccc(NC(=O)c2ccc(CN3CCCC3)cc2)c1)c1nnn[nH]1,PV-005418440569,390.491,2.3346574,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,16,O=C(Nc1cccc(CN2CCCC2)c1)c1cccc(Cc2nnn[nH]2)c1,Z4412381053,362.43701,1.2274364,y,wim pharmacophore,-999,1.0,,Z2911313247,0.91,High pScore
+1972,17,O=C(Nc1cccc(Cc2nnn[nH]2)c1)c1cccc(CN2CCCC2)c1,Z2911313247,362.43701,1.8583512,y,wim pharmacophore,-999,1.0,,Z4412381053,0.91,High pScore
+1972,18,CC(C)(c1cccc(NC(=O)c2cccc(CN3CCCC3)c2)c1)c1nnn[nH]1,PV-004216514549,390.491,2.9715157,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,19,Cc1cc(C)nc(C(=O)Nc2cccc(C(C)(C)c3nnn[nH]3)c2)c1,PV-002939864165,336.39899,3.9555924,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,20,Cc1cc(C(=O)Nc2cccc(C(C)(C)c3nnn[nH]3)c2)nc(C)n1,PV-003467937726,337.38699,3.2760222,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,21,Cn1cnnc1Sc1ccc(NC(=O)[C@]23CO[C@](C[NH3+])(C2)C3)cc1,Z3099733423,345.42001,0.63008803,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,22,[NH3+]C[C@@H]1CCCN(C(=O)c2cccc(OCc3cscn3)c2)C1,Z2301730404,331.42999,1.29164,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,23,[NH3+]C[C@]12C[C@](C(=O)Nc3cccc(Cn4cnnc4)c3)(CO1)C2,Z3103871141,313.36099,-0.51843834,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,24,Cn1ccnc1COc1ccc(C(=O)N2CCC[C@H](C[NH3+])C2)cc1,Z2440037276,328.41599,0.72974783,y,wim pharmacophore,-999,1.0,,,,No pScore
+1972,25,O=C(Nc1cccc(C[NH+]2CCCCC2)c1)C1(n2cnnn2)CCCCC1,Z2473323915,368.48499,3.0841775,y,wim pharmacophore,-999,1.0,,Z2473316968|Z2621742909|Z2621693915,0.96|0.9|0.85,No pScore
+1972,26,Cc1nc(COc2cccc(C(=O)N3CCCC[C@H](C[NH3+])C3)c2)no1,Z3144506726,344.41501,1.3787732,y,wim pharmacophore,-999,1.0,,Z2440040050,0.89,No pScore
+1972,27,O=C(Nc1cccc(C[NH+]2CCCC2)c1)C1(n2cnnn2)CCOCC1,Z2621693769,356.42999,0.8015244,y,wim pharmacophore,-999,1.0,,Z2621742909|Z2621693915,0.8|0.85,No pScore
+1972,28,CC(C)(C(=O)Nc1cccc(C[NH+]2CCCCC2)c1)n1cnnn1,Z3295407853,328.42001,2.05829,y,wim pharmacophore,-999,1.0,,Z3295389817,0.94,Moderate pScore
+1972,29,O=C(Nc1cccc(C[NH+]2CCCC2)c1)C1(n2cnnn2)CCCCC1,Z2473316968,354.45801,2.6396089,y,wim pharmacophore,-999,1.0,,Z2473323915|Z2621742909|Z2621693915,0.96|0.86|0.89,No pScore
+1972,30,CC(C)(C(=O)Nc1cccc(C[NH+]2CCCC2)c1)n1cnnn1,Z3295389817,314.39301,1.6137213,y,wim pharmacophore,-999,1.0,,Z3295407853,0.94,Moderate pScore
+1972,31,O=C(Nc1cccc(C[NH+]2CCCCC2)c1)C1(n2cnnn2)CC1,Z2621742909,326.40399,1.7504715,y,wim pharmacophore,-999,1.0,,Z2473323915|Z2621693769|Z2473316968|Z2621693915,0.9|0.8|0.86|0.94,No pScore
+1972,32,Cc1nc(COc2cccc(C(=O)N3CCC[C@H](C[NH3+])C3)c2)no1,Z2440040050,330.388,0.958534,y,wim pharmacophore,-999,1.0,,Z3144506726,0.89,No pScore
+1972,33,O=C(Nc1cccc(C[NH+]2CCCC2)c1)C1(n2cnnn2)CC1,Z2621693915,312.37701,1.3059028,y,wim pharmacophore,-999,1.0,,Z2473323915|Z2621693769|Z2473316968|Z2621742909,0.85|0.85|0.89|0.94,No pScore
+1972,34,CC(C)(O)CCN(Cc1ccccc1)C(=O)Nc1ccc(Cl)c(C[NH+]2CCCCC2)c1,m_2430bbb____6493264____13772104,445.024,4.104,y,infinisee REAL + MMGBSA + amine,-76.69,,,,,Low pScore
+1972,35,O=C(Nc1ccc(Cl)c(C[NH+]2CCCCC2)c1)N(Cc1ccccc1)C[C@@H](O)c1ccco1,m_2430bbb____6493264____6814606,469.005,4.2695,y,infinisee patent1 + MMGBSA,-73.24,,,,,No pScore
+1972,36,O=C(NCc1ccccc1C[NH+]1CCCCCCC1)NCc1ccccc1N1CC[C@@H](O)C1,m_2708baa____4278128____21538310,451.635,2.606,y,infinisee patent1 + MMGBSA,-71.91,,,,,No pScore
+1972,37,CN1CC[NH+](Cc2ccc(NC(=O)N(CCC(C)(C)O)Cc3ccccc3)cc2C(F)(F)F)CC1,m_2430bbb____16761852____13772104,493.594,3.2308,y,infinisee patent1 + MMGBSA,-71.33,,,m_2430bbb____22525090____13772104,0.8,Low pScore
+1972,38,Cc1ccc(Oc2ccc(NC(=O)NCc3cccc(C[NH+]4CCCCCC4)c3)cc2)nn1,m_2708baa____2307424____23985302,446.575,3.85792,y,infinisee patent1 + MMGBSA,-70.94,,,,,Moderate pScore
+1972,39,CC(C)c1ccc(CN(C(=O)CNc2ccccc2C[NH+]2CCC(CO)CC2)C2CC2)cc1,m_38bba____2745548____10347726,450.647,3.2003,y,infinisee patent1 + MMGBSA,-70.87,,,,,No pScore
+1972,40,O=C(Cc1cccc(Oc2ncns2)c1)Nc1ccc(CC[NH+]2CCCC2)cc1,m_11dba____1318150____22137654,409.535,2.7328,y,infinisee patent1 + MMGBSA,-70.62,,,,,Moderate pScore
+1972,41,CC(C)(C)OC(=O)N1CC(Oc2ccc(NC(=O)NCc3cccc(C[NH+]4CCCCCC4)c3)cc2)C1,m_2708baa____2307424____23992606,509.671,3.9653,y,infinisee patent1 + MMGBSA,-70.43,,,,,No pScore
+1972,42,CC(C)(O)CCN(Cc1ccccc1)C(=O)Nc1ccc(C[NH+]2CCCC2)c(C(F)(F)F)c1,m_2430bbb____22525090____13772104,464.552,4.0792,y,infinisee patent1 + MMGBSA,-70.24,,,m_2430bbb____16761852____13772104,0.8,No pScore
+1972,43,COCCCCN(Cc1ccccc1)C(=O)Nc1ccc(Cl)c(C[NH+]2CCCCC2)c1,m_2430bbb____6493264____1500198,445.027,4.3695,y,infinisee patent1 + MMGBSA,-70.12,,,,,Low pScore
+1972,44,COCCCCN(Cc1ccccc1)C(=O)Nc1ccc(C[NH+]2CCCC2)c(C(F)(F)F)c1,m_2430bbb____22525090____1500198,464.552,4.3448,y,infinisee patent1 + MMGBSA,-69.67,,,,,No pScore
+1972,45,COCCCSc1ccc(NC(=O)NCc2ccccc2C[N@@H+]2CCC[C@@H](C)C2)cc1,m_2708baa____907048____23982232,442.649,3.9517,y,infinisee patent1 + MMGBSA,-69.6,,,,,Low pScore
+1972,46,COC(=O)CN1CCN(c2ccc(NC(=O)NCc3ccccc3C[N@H+]3CCCC[C@H]3C)cc2)CC1,m_2708baa____907038____23992542,494.66,2.2606,y,infinisee patent1 + MMGBSA,-69.44,,,,,No pScore
+1972,47,CC1CC[NH+](CCc2cccc(NC(=O)N(CCC(C)(C)O)Cc3ccccc3)c2)CC1,m_2430bbb____8166572____13772104,438.636,3.739,y,infinisee patent1 + MMGBSA,-69.41,,,,,Low pScore
+1972,48,CCn1cc([C@@H](O)CN(Cc2ccccc2)C(=O)Nc2ccc(C[NH+]3CCCC3)c(C(F)(F)F)c2)cn1,m_2430bbb____22525090____9280632,516.588,3.8682,y,infinisee patent1 + MMGBSA,-69.13,,,,,No pScore
+1972,49,C[C@@H]1CC[N@@H+](CCOc2ccc(NC(=O)NCc3cccc(CN4CCOCC4)c3)cc2)C1,m_2708baa____1008730____24000712,453.607,2.144,y,infinisee patent1 + MMGBSA,-68.92,,,,,Moderate pScore
+1972,50,C[C@@H]1CCCC[N@@H+]1Cc1ccccc1CNC(=O)Nc1ccc2c(c1)CCC(=O)N2CC1CC1,m_2708baa____907038____24022458,461.63,3.6548,y,infinisee patent1 + MMGBSA,-68.91,,,m_2708baa____907038____23993192,0.95,No pScore
+1972,51,C[C@@H]1C[C@@H](C)C[NH+](Cc2ccccc2CNC(=O)Nc2ccc(N3CCNC(=O)C3)c(Cl)c2)C1,m_2708caa____907258____913756,485.052,2.6587,y,infinisee patent1 + MMGBSA,-68.86,,,,,Low pScore
+1972,52,O=C(Cc1ccc(N2CCOCC2)cc1)NCc1ccccc1C[NH+]1CCCCCC1,m_11dba____4833124____15069110,422.593,2.341,y,infinisee patent1 + MMGBSA,-68.54,,,,,No pScore
+1972,53,CC1CC[NH+](Cc2ccccc2CNC(=O)Nc2ccc(Sc3nncn3C)c(Cl)c2)CC1,m_2708baa____9283446____24020402,486.065,3.7562,y,infinisee patent1 + MMGBSA,-68.52,,,,,Moderate pScore
+1972,54,CN(CC[NH+]1CCCC1)c1ccc(NC(=O)COc2cccc(N3CCCC3=O)c2)cc1,m_22bbe____20839612____138731,437.564,1.9458,y,infinisee patent1 + MMGBSA,-68.49,,,,,No pScore
+1972,55,O=C(NCc1ccc(C[NH+]2CCCC2)cc1)Nc1cc(Br)c2c(c1)OCCCO2,m_2708baa____906352____24000974,461.38,3.1108,y,infinisee patent1 + MMGBSA,-68.42,,,,,No pScore
+1972,56,O=C(NCc1ccccc1C[NH+]1CCCCCC1)N(Cc1cccc(F)c1)C[C@H]1CCCO1,m_2708baa____4833158____2365830,454.61,3.6754,y,infinisee patent1 + MMGBSA,-68.32,,,,,No pScore
+1972,57,O=C(NCc1ccccc1C[NH+]1CCCCCCC1)Nc1ccc(Oc2cccnn2)cc1,m_2708baa____4278128____24021916,446.575,3.9396,y,infinisee patent1 + MMGBSA,-68.17,,,,,Moderate pScore
+1972,58,C[C@@H]1CCCC[N@@H+]1Cc1ccccc1CNC(=O)Nc1ccc2c(c1)CCC(=O)N2CC1CCC1,m_2708baa____907038____23993192,475.657,4.0449,y,infinisee patent1 + MMGBSA,-68.17,,,m_2708baa____907038____24022458,0.95,No pScore
+1972,59,C[C@@H]1CCC[N@@H+](Cc2ccccc2CNC(=O)NCc2ccc(C3CC3)c(F)c2)C1,m_2708baa____907048____16488360,410.557,3.5173,y,infinisee patent1 + MMGBSA,-68.12,,,,,Moderate pScore
+1972,60,CC(C)(C)OC(=O)N1CC(Oc2ccc(NC(=O)NCc3ccccc3C[NH+]3CCCCCC3)cc2)C1,m_2708baa____4833158____23992606,509.671,3.9653,y,infinisee patent1 + MMGBSA,-68.02,,,,,No pScore
+1972,61,C[C@@H]1CCC[N@@H+](Cc2ccccc2CNC(=O)Nc2ccc([NH+]3CC(O)C3)cc2)C1,m_2708baa____907048____23985224,410.562,0.714,y,infinisee patent1 + MMGBSA,-67.98,,,,,No pScore
+1972,62,CC(=O)CCc1ccc(OCC(=O)Nc2cccc(C[NH+]3CCC(CO)CC3)c2)cc1,m_22bbb____6914254____2228234,425.549,2.0129,y,infinisee patent1 + MMGBSA,-67.88,,,,,Moderate pScore
+1972,63,CN(Cc1cnn(C)c1)c1ccc(NC(=O)NCc2ccccc2C[NH+]2CCCCCC2)cc1,m_2708baa____4833158____24000622,461.634,3.3371,y,infinisee patent1 + MMGBSA,-67.8,,,,,Moderate pScore
+1972,64,CC[NH+](CC)CCNC(=O)c1ccc(NC(=O)C2c3ccccc3Oc3ccccc32)cc1,Z26393337,444.555,3.2174,y,vina + MMGBSA,-67.74,,,,,No pScore
+1972,65,C[C@@H]1C[C@@H](C)C[NH+](Cc2ccccc2CNC(=O)NCc2ccc(N3CCCNC3=O)cc2)C1,m_2708baa____907258____12113028,464.634,2.6665,y,infinisee patent1 + MMGBSA,-67.72,,,,,No pScore
+1972,66,C[C@@H]1CCCC[N@@H+]1Cc1ccccc1CN1CCC(=O)N(Cc2ccc3c(c2)OCCCO3)C1=O,m_277130aaa____15460720____15467308____14751406,478.613000000001,3.1597,y,infinisee patent1 + MMGBSA,-67.58,,,,,No pScore
+1972,67,C[C@@H]1CCC[N@@H+](Cc2ccccc2CNC(=O)N(Cc2cccc(O)c2)CC2CC2)C1,m_2708baa____907048____24020390,422.589,3.329,y,infinisee REAL + MMGBSA + amine,-67.46,,,,,No pScore
+1972,68,CC(=O)CCc1ccc(OCC(=O)NCc2ccccc2C[NH+]2CCCCCC2)cc1,m_11dba____4833124____2228232,423.577,2.8623,y,infinisee patent1 + MMGBSA,-67.41,,,,,Low pScore
+1972,69,CC1(C)C(=O)Nc2ccccc2N1C(=O)COC(=O)c1nn(Cc2ccccc2)c(=O)c2ccccc12,Z15497168,496.523,3.3655,y,vina + MMGBSA,-67.24,,,,,No pScore
+1972,70,O=C(Cc1ccccc1F)N1CCN(C(=O)NCc2ccccc2COCc2ccccc2)CC1,Z885889506,475.564,4.139,y,vina + MMGBSA,-67.18,,,,,No pScore
+1972,71,CCN(c1ccccc1)S(=O)(=O)c1cc(C(=O)NCC(c2ccco2)[NH+]2CCCCC2)ccc1C,Z26996491,496.653,3.34312,y,vina + MMGBSA,-66.91,,,,,No pScore
+1972,72,C[C@@H]1CCCC[N@@H+]1Cc1ccccc1CNC(=O)Nc1ccc([N@H+]2CC[C@@H](O)C2)cc1,m_2708baa____907038____23984790,423.578,2.537,y,infinisee REAL + MMGBSA + amine,-66.81,,,,,No pScore
+1972,73,COc1ccccc1C(CNC(=O)c1ccc2c(=O)n3c(nc2c1)CCCCC3)[NH+]1CCCC1,Z28475766,461.586,2.2813,y,vina + MMGBSA,-66.43,,,,,No pScore
+1972,74,CC(C)CN(Cc1cccc(F)c1)C(=O)NCc1ccccc1C[NH+]1C[C@H](C)C[C@@H](C)C1,m_2708baa____907258____2247288,440.623,4.254,y,infinisee REAL + MMGBSA + amine,-66.24,,,,,Low pScore
+1972,75,O=C(NCc1ccccc1C[NH+]1CCCCCC1)N[C@@H](c1cccc(F)c1)C1CC1,m_2708baa____4833158____23980732,410.554,3.735,y,infinisee REAL + MMGBSA + amine,-65.56,,,m_2708baa____4833158____7026140,0.91,No pScore
+1972,76,Cc1nc(NC(=O)CCCc2nc3ccccc3c(=O)[nH]2)sc1Cc1ccc2c(c1)OCO2,Z29000042,462.531,3.96892,y,vina + MMGBSA,-65.42,,,,,No pScore
+1972,77,O=C(C=Cc1ccccc1)NC1=[N+]=C2N=CC=CN2Cc2ccccc21,Z56786272,341.394,2.0997,y,vina + MMGBSA,-65.12,,,,,No pScore
+1972,78,O=C(Nc1ccc(C[NH+]2CCCC2)c(C(F)(F)F)c1)N(Cc1cccc(O)c1)CC1CC1,m_2430cab____22525090____4836042,448.506,4.034,y,infinisee REAL + MMGBSA + amine,-64.96,,,,,No pScore
+1972,79,CC1CCC[NH+](Cc2ccc(CNC(=O)CCCOc3ccc4c(c3)CCC(=O)N4)cc2)C1,Z421504842,450.603,2.8615,y,vina + MMGBSA,-64.74,,,,,No pScore
+1972,80,C[C@@H]1C[C@@H](C)C[NH+](Cc2ccccc2CNC(=O)N[C@H](c2ccccc2)C2(CO)CCCC2)C1,m_2708baa____907258____13192978,464.67,3.841,y,infinisee REAL + MMGBSA + amine,-64.56,,,,,Moderate pScore
+1972,81,C[NH+]1CCc2nc(C=Cc3cccc(OCc4cccc(C#N)c4)c3)[nH]c(=O)c2C1,Z2026306780,399.474,1.96178,y,vina + MMGBSA,-64.55,,,,,No pScore
+1972,82,CCc1noc2ncc(C(=O)NCc3ccccc3C[NH+]3CCCCC3C)cc12,Z759571834,393.511,2.6725,y,vina + MMGBSA,-64.52,,,,,No pScore
+1972,83,C[NH+]1CCN(C(c2ccccc2)c2nc(-c3ccc(Oc4ccc(F)cc4)nc3)no2)CC1,Z1908278290,446.506,2.9827,y,vina + MMGBSA,-64.27,,,,,No pScore
+1972,84,O=C(Nc1cccc(C2(CO)CC2)c1)c1cccc(C2(F)C[NH2+]C2)c1,Z6408882039,341.406,1.7046,y,classifier REAL + MMGBSA + amine,-64.21,,,,,No pScore
+1972,85,C[C@@H]1CCC[N@@H+](Cc2ccccc2CNC(=O)N[C@@H](c2ccccc2F)C2CCCC2)C1,m_2708baa____907048____6958126,438.607,4.371,y,infinisee REAL + MMGBSA + amine,-64.14,,,,,No pScore
+1972,86,COc1ccccc1[C@@H](CC(C)C)NC(=O)NCc1ccccc1C[N@@H+]1CCC[C@@H](C)C1,m_2708baa____907048____6442094,438.632,4.097,y,infinisee REAL + MMGBSA + amine,-63.82,,,,,Low pScore
+1972,87,O=C1CN(c2ccc(NC(=O)NC(CN3CCCC3=O)c3ccccc3)cn2)CCN1,Z434564418,422.489,1.503,y,vina + MMGBSA,-63.64,,,,,No pScore
+1972,88,CC1CC[NH+](Cc2ccc(NC(=O)C(=O)N(Cc3cccc(F)c3)C3CCC3)cc2)CC1,m_2718cba____13162178____1008704,438.564,3.16,y,infinisee REAL + MMGBSA + amine,-63.52,,,,,Low pScore
+1972,89,Cc1ccc2nc(COC(=O)C3c4ccccc4Oc4ccccc43)cc(=O)n2c1,Z54071732,398.418,3.98392,y,vina + MMGBSA,-63.39,,,,,No pScore
+1972,90,O=C(NC1CCSc2ccc(F)cc21)c1ccc(NS(=O)(=O)c2ccc3[nH]c(=O)[nH]c3c2)cc1,Z131483750,498.561,3.763,y,vina + MMGBSA,-63.21,,,,,No pScore
+1972,91,C[C@@H]1C[C@@H](C)C[NH+](Cc2ccccc2CNC(=O)Nc2ccc([NH+]3CC(O)C3)cc2)C1,m_2708baa____907258____23985224,423.578,2.25,y,infinisee REAL + MMGBSA + amine,-63.06,,,,,No pScore
+1972,92,CCN(Cc1cccc(NC(=O)Nc2ccc(C[NH+]3CCCC3)c(C(F)(F)F)c2)c1)C(C)=O,m_2430bbb____22525090____22585254,463.521,3.897,y,infinisee REAL + MMGBSA + amine,-62.97,,,m_2430bbb____22525090____22585252,0.83,No pScore
+1972,93,CC(C)Cn1nc(C(=O)NC(CN2CCCC2=O)c2ccccc2)c2ccccc2c1=O,Z437056864,432.524,3.146,y,vina + MMGBSA,-62.66,,,,,Moderate pScore
+1972,94,Cc1cc(=O)oc2cc(NC(=O)N(Cc3cccnc3)CC3CCCO3)ccc12,Z603291104,393.443,3.70952,y,vina + MMGBSA,-62.22,,,,,No pScore
+1972,95,O=C(NC1=[N+]=C2N=CC=CN2Cc2ccccc21)c1cc(F)c(F)c(F)c1F,Z56781845,387.316,2.2565,y,vina + MMGBSA,-62.17,,,,,No pScore
+1972,96,C[C@@H]1C[C@@H](C)C[NH+](Cc2ccccc2CNC(=O)N(Cc2ccccc2F)CC2CC2)C1,m_2708baa____907258____12058282,438.607,4.008,y,infinisee REAL + MMGBSA + amine,-62.16,,,,,No pScore
+1972,97,Cc1ccc(-c2nnc(-c3ccc(C(=O)NCc4ccccc4C[NH+]4CCCC4)cc3)o2)cc1,Z147088942,453.566,3.82072,y,vina + MMGBSA,-62.14,,,,,No pScore
+1972,98,Cc1c(C(=O)NCc2ccccc2C[NH+]2CCCCC2C)[nH]c2c1C(=O)CCC2,Z424508008,394.539,2.72942,y,vina + MMGBSA,-61.9,,,,,No pScore
+1972,99,Fc1ccc(-c2cnc(C[NH+]3CCCC3Cn3cnc4ccccc43)o2)cc1,Z1523151619,377.443,3.0779,y,vina + MMGBSA,-61.7,,,,,No pScore
+1972,100,O=C(Nc1ccc(-n2cncn2)nc1)C(Oc1ccccc1)c1ccccc1,Z443024818,371.4,3.4211,y,vina + MMGBSA,-61.7,,,,,No pScore
+1972,101,C[C@@H]1C[C@@H](C)C[NH+](Cc2ccccc2CNC(=O)N[C@@H](c2c(F)cccc2F)C2CCC2)C1,m_2708baa____907258____20011210,456.597,4.366,y,infinisee REAL + MMGBSA + amine,-61.68,,,,,No pScore
+1972,102,O=C(Nc1ccc(C[NH+]2CCCC2)c(C(F)(F)F)c1)N[C@H](c1ccccc1)C1(CO)CCCC1,m_2430cab____22525090____12875830,476.56,4.3,y,infinisee REAL + MMGBSA + amine,-61.65,,,m_2430bbb____22525090____10902520,0.95,No pScore
+1972,103,O=C(CN(Cc1ccc(F)cc1)C1CCC1)Nc1ccc(C[NH+]2CCCCC2)cc1,m_2230bec____16637212____14795296,411.562,1.971,y,infinisee REAL + MMGBSA + amine,-61.46,,,,,No pScore
+1972,104,CC1CN(S(=O)(=O)c2cccc(C(=O)NC(c3cccc(F)c3)c3nccn3C)c2)CC(C)O1,Z167565772,486.569,2.8765,y,vina + MMGBSA,-61.19,,,,,No pScore
+1972,105,Cn1nc(C(=O)Nc2cc(S(=O)(=O)N3CCCCC3)ccc2Cl)c2ccccc2c1=O,Z30491927,460.943,3.0138,y,vina + MMGBSA,-61.08,,,Z30491927,1.0,No pScore
+1972,106,Cn1nc(C(=O)Nc2cc(S(=O)(=O)N3CCCCC3)ccc2Cl)c2ccccc2c1=O,Z30491927,460.943,3.0138,y,vina + MMGBSA,-61.08,,,Z30491927,1.0,No pScore
+1972,107,O=C(Nc1ccc(C[NH+]2CCCC2)c(C(F)(F)F)c1)N[C@H](c1ccccc1)C1(CO)CCC1,m_2430bbb____22525090____10902520,462.533,3.909,y,infinisee REAL + MMGBSA + amine,-61.05,,,m_2430cab____22525090____12875830,0.95,No pScore
+1972,108,O=C1NCC(COC(=O)c2cc(-c3ccc(Cl)cc3)nc3ccccc23)O1,Z57014360,382.803,3.8204,y,vina + MMGBSA,-61.0,,,,,No pScore
+1972,109,Cc1ccc(NC(=O)C(OC(=O)C2CCC(=O)N2)c2ccccc2)cc1Cl,Z71213470,386.835,3.15002,y,vina + MMGBSA,-60.87,,,,,Moderate pScore
+1972,110,CN(c1ccccc1)S(=O)(=O)c1cccc(NC(=O)COc2cccc(-n3cnnn3)c2)c1,Z16884331,464.507,2.5049,y,vina + MMGBSA,-60.81,,,,,No pScore
+1972,111,C[C@@H]1CCCC[N@@H+]1Cc1ccccc1CNC(=O)N(CCC(C)(C)O)Cc1ccccc1,m_2708baa____907038____13772108,438.632,3.517,y,infinisee REAL + MMGBSA + amine,-60.7,,,,,Low pScore
+1972,112,COc1ccc(C2CCCCC[NH+]2CCC(=O)Nc2ccc(N3CCCC3=O)cc2)cc1,Z126474592,436.576,3.3508,y,vina + MMGBSA,-60.66,,,,,No pScore
+1972,113,O=C(Nc1ccc(C[NH+]2CCCC2)c(C(F)(F)F)c1)N(Cc1ccccc1)CC1(O)CCCC1,m_2430bbb____22525090____7116040,476.56,4.223,y,infinisee REAL + MMGBSA + amine,-60.65,,,,,No pScore
+1972,114,Cc1ccc(C)c(N2C(=O)c3ccc(C(=O)Nc4ccccc4C(=O)NC4CC4)cc3C2=O)c1,Z27609293,453.498,4.24854,y,vina + MMGBSA,-60.65,,,,,No pScore
+1972,115,COC(=O)C1(c2cccc(NC(=O)Nc3ccccc3C[N@@H+](C)C3CCCCC3)c2)CCC1,m_2430bbb____737662____22586094,450.599,4.273,y,infinisee REAL + MMGBSA + amine,-60.6,,,,,No pScore
+1972,116,O=C(Nc1ccc(C[NH+]2CCCC2)c(C(F)(F)F)c1)N(Cc1cccc(F)c1)C1CC1,m_2430bbb____22525090____1010242,436.47,4.22,y,infinisee REAL + MMGBSA + amine,-60.57,,,m_2430cab____22525090____7024868,0.91,No pScore
+1972,117,O=C(Nc1ccc(C(=O)NC2CC2)c(Cl)c1)NC(CN1CCCC1=O)c1ccccc1,Z595617162,440.931,3.7174,y,vina + MMGBSA,-60.55,,,,,No pScore
+1972,118,c1ccc(C(CNc2ncnc3c2cnn3-c2ncccn2)c2ccccc2)cc1,Z1502689706,393.454,3.8495,y,vina + MMGBSA,-60.49,,,,,No pScore
+1972,119,C[C@@H]1CCC[N@@H+](Cc2ccccc2CNC(=O)N[C@@H](c2c(F)cccc2F)C2CCC2)C1,m_2708baa____907048____20011210,442.571,4.12,y,infinisee REAL + MMGBSA + amine,-60.47,,,,,No pScore
+1972,120,CC(Sc1nnc(-c2cc(-c3cccs3)nc3ccccc23)o1)C(=O)c1c(N)n(C)c(=O)n(C)c1=O,Z15436840,520.596,3.3564,y,vina + MMGBSA,-60.43,,,,,No pScore
+1972,121,Cc1cc([N@H+]2CCC[C@@H](O)C2)ccc1NC(=O)NCc1ccccc1C[N@@H+]1CCC[C@@H](C)C1,m_2708baa____907048____24021858,451.631,3.093,y,infinisee REAL + MMGBSA + amine,-60.35,,,,,No pScore
+1972,122,O=C(NCc1ccccc1C[NH+]1CCCCCC1)N(Cc1ccccc1F)C1CCOCC1,m_2708baa____4833158____16643628,454.606,3.675,y,infinisee REAL + MMGBSA + amine,-60.34,,,m_2708baa____4833158____2990612,0.84,No pScore
+1972,123,C[C@@H]1C[C@@H](C)C[NH+](Cc2ccccc2CNC(=O)N[C@@H](c2ccccc2)C2CCC2)C1,m_2708baa____907258____3365470,420.617,4.088,y,infinisee REAL + MMGBSA + amine,-60.32,,,,,No pScore
+1972,124,O=C(Nc1ccc(Cl)c(C[NH+]2CCCCC2)c1)Nc1ccccc1[C@H]1CCOC1,m_2430bbb____6493264____19660868,414.954,4.057,y,infinisee REAL + MMGBSA + amine,-60.31,,,,,No pScore
+1972,125,CC(=O)N1CCN(c2ccccc2CN2CCC(=O)N(Cc3ccccc3C[N@H+]3CCCC[C@H]3C)C2=O)CC1,m_277130aaa____15461078____15467308____14751406,532.705,2.667,y,infinisee REAL + MMGBSA + amine,-60.25,,,m_277130aaa____15459340____15468200____14751406,0.81,No pScore
+1972,126,CC(=O)N1CCN(c2ccccc2CNC(=O)C(=O)Nc2cccc(C[NH+]3CCCCC3)c2)CC1,m_2718cba____5175848____868436,478.613,1.179,y,infinisee REAL + MMGBSA + amine,-60.21,,,,,No pScore
+1972,127,CCN(Cc1cccc(NC(=O)Nc2ccc(C[NH+]3CCCC3)c(C(F)(F)F)c2)c1)C(=O)C(F)(F)F,m_2430bbb____22525090____22585252,517.491,4.439,y,infinisee REAL + MMGBSA + amine,-60.16,,,m_2430bbb____22525090____22585254,0.83,No pScore
+1972,128,COC(=O)C1(c2cccc(NC(=O)Nc3ccc(Cl)c(C[NH+]4CCCCC4)c3)c2)CCC1,m_2430bbb____6493264____22586094,456.991,4.147,y,infinisee REAL + MMGBSA + amine,-59.97,,,,,No pScore
+1972,129,O=C(NCc1ccccc1C[NH+]1CCCCCC1)N(Cc1cccc(F)c1)C1CCC1,m_2708baa____4833158____13162176,424.581,4.049,y,infinisee REAL + MMGBSA + amine,-59.91,,,,,No pScore
+1972,130,Cc1cc(C(=O)N2CCN(C(=O)Nc3cccc(Cn4cccnc4=O)c3)CC2)c(C)o1,Z603722276,435.484,2.49134,y,vina + MMGBSA,-59.77,,,,,No pScore
+1972,131,Cc1noc2ncc(C(=O)N3CCN(C(=O)C(c4ccccc4)c4ccccc4)CC3)cc12,Z289492786,440.503,3.64772,y,vina + MMGBSA,-59.7,,,,,No pScore
+1972,132,CC1CN(S(=O)(=O)c2cccc(C(=O)NC(c3ccccc3F)c3nccn3C)c2)CC(C)O1,Z167572918,486.569,2.8765,y,vina + MMGBSA,-59.63,,,,,No pScore
+1972,133,NC(=O)C1CCC[NH+](Cc2ccc(NC(=O)C3CCN(C(=O)COc4ccccc4)CC3)cc2)C1,Z991655380,479.601,1.2229,y,vina + MMGBSA,-59.56,,,,,No pScore
+1972,134,CCCCn1nc(C(=O)Nc2cccc(S(=O)(=O)N3CCCC3)c2)c2ccccc2c1=O,Z30225557,454.552,3.2334,y,vina + MMGBSA,-59.54,,,,,No pScore
+1972,135,O=C(NCc1cccc(C[NH+]2CCCCCC2)c1)NCc1ccccc1N1CC[C@@H](O)C1,m_2708baa____2307424____21538310,437.604,2.216,y,infinisee REAL + MMGBSA + amine,-59.51,,,,,No pScore
+1972,136,CC(C1CC2CCC1C2)N1C(=O)C(=O)N(CC(=O)Nc2ccc3c(c2)OCCO3)C1=O,Z26303988,427.457,2.0118,y,vina + MMGBSA,-59.44,,,,,No pScore
+1972,137,O=C(CSc1nnc(-c2nn(Cc3ccccc3)c(=O)c3ccccc23)o1)n1cc[nH]c1=O,Z15434645,460.475,2.4171,y,vina + MMGBSA,-59.13,,,,,No pScore
+1972,138,CC(C)Cn1nc(C(=O)NNC(=O)c2n[nH]c(=O)c3ccccc23)c2ccccc2c1=O,Z29576985,432.44,1.3638,y,vina + MMGBSA,-59.11,,,,,Moderate pScore
+1972,139,NC(=O)c1ccc(N2CCCC2)c(NC(=O)c2ccc3c(c2)CCC(=O)N3)c1,Z165037048,378.432,2.5227,y,vina + MMGBSA,-58.98,,,,,No pScore
+1972,140,Cc1cc(C[NH+](C)C)cc(NC(=O)c2cccc(C3(O)COC3)c2)c1,Z4320146312,341.431,1.10962,y,classifier REAL + MMGBSA + amine,-57.96,,,,,No pScore
+1972,141,[NH3+]C1(c2cccc(NC(=O)c3cc(C4CC4)ccn3)c2)CCOCC1,Z3518568935,338.431,2.4589,y,classifier REAL + MMGBSA + amine,-53.55,,,,,No pScore
+1972,142,C[C@H](O)c1cccc(NC(=O)c2cccc(C3(C[NH3+])CC3)c2)c1,PV-003223205824,311.405,2.2657,y,classifier REAL + MMGBSA + amine,-52.58,,,,,No pScore
+1972,143,C[C@@H](O)c1cccc(NC(=O)c2cccc(C3(F)C[NH2+]C3)c2)c1,Z4210118504,315.368,1.734,y,classifier REAL + MMGBSA + amine,-52.33,,,,,No pScore
+1972,144,C[C@@H]([NH3+])c1cccc(NC(=O)c2cccc(C3(F)C[NH2+]C3)c2)c1,Z4210297065,315.392,0.9836,y,classifier REAL + MMGBSA + amine,-51.25,,,,,No pScore
+1972,145,C[C@@H](NC(=O)c1cccc(C2(F)C[NH2+]C2)c1)c1cccnc1F,Z4422139754,318.347,1.4535,y,classifier REAL + MMGBSA + amine,-50.73,1.0,,,,No pScore
+1972,146,CC(F)(F)c1cncc(C(=O)Nc2cc(C[NH3+])cc(C(F)(F)F)c2)c1,Z3792671948,360.306,3.2063,y,classifier REAL + MMGBSA + amine,-50.63,,,,,No pScore
+1972,147,[NH3+]CC1(c2cccc(C(=O)Nc3cccc(C(F)(F)CF)c3)c2)CC1,PV-003136762018,349.376,3.2737,y,classifier REAL + MMGBSA + amine,-49.77,,,,,No pScore
+1972,148,Cn1nnnc1SCCCN(Cc1ccc(Cl)cc1)C(=O)NCc1cc(F)ccc1N1CC[NH+](C)CC1,m_2708baa____23829346____24001680,548.107,2.232,y,infinisee REAL + MMGBSA  + amine,-43.83,1.0,,,,No pScore

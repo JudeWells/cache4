@@ -1,0 +1,8 @@
+smiles,COMPOUND_NAMES,source,IC50_range_nM,ic_50_nM,target
+C[C@H]1CCCN(C1)CC2=CC(=C3CN(C4=CC(=CC=C4)[C@]5(C[C@H](C)C5)C6=NN=CN6C)C(=O)C3=C2)C(F)(F)F,nx1607,literature_on_nx1607,4-12,8,1
+C[C@H]1C[C@](C1)(C2=NN=CN2C)C3=CC(=CC=C3)N4CC5=C(C=C(CN6CCC[C@H](C)C6)C=C5C(F)(F)F)C4=O,nx1607_isomeric,literature_on_nx1607,4-12,8,1
+C[C@H]1CCCN(Cc2cc3c(c(C(F)(F)F)c2)CN(c2cccc([C@]4(c5nncn5C)C[C@@H](C)C4)c2)C3=O)C1,pdb_8gcy_ligand_nx1607_analog,PDB_8GCY,4-12,8,1
+O=C(N[C@H]1N=C(c2ccccc2)c2ccccc2NC1=O)c1ccccc1CN1CCOCC1,pdb_8QNG_ligand_benzo,pdb_8qng,,200,1
+C[C@H](Cc1nncn1C)c1cccc(NC(=O)c2ccnc(C3CC3)n2)c1,nurixtx_nrx6_slideshow_ligand,https://www.nurixtx.com/wp-content/uploads/2022/09/Nurix-CBL-B-DOT-Talk_JK.pdf,,88,1
+Cc1cc(C(=O)Nc2cccc(C3(Cc4nncn4C)COC3)c2)nc(C2CC2)n1,nurixtx_nrx8_slideshow_ligand,https://www.nurixtx.com/wp-content/uploads/2022/09/Nurix-CBL-B-DOT-Talk_JK.pdf,,21,1
+Cc1cc(C(=O)Nc2cccc([C@H](C)Cc3nncn3C)c2)nc(C2CC2)n1,nurixtx_nrx7_slideshow_ligand,https://www.nurixtx.com/wp-content/uploads/2022/09/Nurix-CBL-B-DOT-Talk_JK.pdf,,38,1

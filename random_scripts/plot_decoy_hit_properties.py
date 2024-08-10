@@ -45,8 +45,8 @@ def plot_distributions(df):
                 "num_h_bond_donors", "num_h_bond_acceptors"]
     for colname in colnames:
         plt.figure()
-        sns.distplot(df[df.target==0][colname], hist=True, label="decoys", color="skyblue")
-        sns.distplot(df[df.target==1][colname], hist=True, label="hits", color="red")
+        sns.distplot(df[df.target==0][colname], hist=True, label="decoys", color="skyblue",bins=30)
+        sns.distplot(df[df.target==1][colname], hist=True, label="hits", color="red", bins=30)
         # sns.histplot(data1, color="skyblue", label="Data 1", kde=True, stat='density')
         # sns.histplot(data2, color="red", label="Data 2", kde=True, stat='density')
         plt.legend()
@@ -56,6 +56,11 @@ def plot_distributions(df):
 
 def main():
     df = pd.read_csv("ligand_files/all_ligands.csv")
+    df = df[df.target==1]
+    decoy_df = pd.read_csv("ligand_files/all_decoys.csv")
+    decoy_df["target"] = 0
+    decoy_df = decoy_df.rename(columns={'SMILES': 'smiles'})
+    df = pd.concat([df, decoy_df])
     df = add_mol_properties(df)
     plot_distributions(df)
 

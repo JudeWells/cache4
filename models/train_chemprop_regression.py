@@ -5,12 +5,13 @@ import chemprop
 
 arguments = [
     '--dataset_type', 'regression',
-    '--save_dir', 'chemprop_regression_logIC50',
+    '--save_dir', 'chemprop_regression_logIC50_2_folds',
     '--split_type', 'scaffold_balanced',
     '--target_columns', 'log_ic50',
-    '--num_folds' , '5',
+    '--num_folds' , '2',
     '--ensemble_size', '1',
     '--extra_metrics', 'r2', 'mae'
+    '--split_sizes', '0.85', '0.15', '0.0',
 ]
 
 def convert_ic50_range(ic50):
